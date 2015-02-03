@@ -1,0 +1,1406 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta CHARSET="utf-8">
+    <meta HTTP-EQUIV="X-UA-Compatible" CONTENT="IE=edge">
+
+    <!-- Title should be OrgName | Page Title | Main Copy Title -->
+    <!-- Example: Drake University | Planned Giving | Bequests and Wills -->
+    <title>Invest in Our Future to Amplify Your Impact | St. Stephan&#39;s Episcopal School</title>
+        <script TYPE="text/javascript">
+            //Setting global variables
+            var orgId = "A0015392";        
+        </script>
+        <link REL="stylesheet" TYPE="text/css" HREF="/DssPreview/assets/prebuilt/css/stelter-master.css?_previewAsset_=true" />
+        <link REL="stylesheet" TYPE="text/css" HREF="/DssPreview/assets/prebuilt/css/stelter-print.css?_previewAsset_=true" MEDIA="print" />
+        <link REL="stylesheet" TYPE="text/css" HREF="/DssPreview/assets/prebuilt/css/stelter-journey.css?_previewAsset_=true"/>        
+        <script TYPE="text/javascript" SRC="/DssPreview/assets/prebuilt/js/jquery.js?_previewAsset_=true"></script>
+        <script TYPE="text/javascript" SRC="/DssPreview/assets/prebuilt/js/jquery-popup.js?_previewAsset_=true"></script>
+        <script TYPE="text/javascript" SRC="/DssPreview/assets/prebuilt/js/jquery.magnific-popup.min.js?_previewAsset_=true"></script>
+        <script TYPE="text/javascript" SRC="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+        <link TYPE="text/css" REL="stylesheet" HREF="//cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css" />
+        <script TYPE="text/javascript" SRC="/DssPreview/assets/prebuilt/js/jquery-scripts.js?_previewAsset_=true"></script>
+        <script TYPE="text/javascript" SRC="/DssPreview/assets/prebuilt/js/s_code.js?_previewAsset_=true"></script>
+        <link REL="Stylesheet" HREF="Documents/Stelter/master-site/global.css?date=635585072101484929" />
+        <link REL="Stylesheet" HREF="Documents/S/st-stephans-episcopal-school/stelter-A0015392.css?date=635585072101484929" />
+        <script TYPE="text/javascript" SRC="Documents/Stelter/master-site/global.js?date=635585072101484929"></script>
+
+<link REL="stylesheet" TYPE="text/css" HREF="//cdn.media78.whipplehill.net/ftpimages/580/podium/style_578_7971.css" />
+<link REL="stylesheet" TYPE="text/css" HREF="//cdn.media78.whipplehill.net/ftpimages/580/podium/style_578_7971_cust.css" />
+
+<STYLE>
+.sitepg DIV, .pd3Find input, .pd3Find A {-moz-box-sizing:border-box; box-sizing:border-box; -webkit-box-sizing:border-box;}
+.sortplaceholder {background-color:#f1f1f1;border:1px dotted #c1c1c1;height:30px;margin:5px;} 
+</STYLE>
+<script TYPE="text/javascript">var bcPlayerData= {playerId:'1641553430001',playerKey:'AQ~~,AAABffgMJ_E~,bxZeLNnUqZXAUdROMAI_kJ1wiujCNYt8'};</script>
+
+<script id="linksTmpl" TYPE="text/x-jquery-tmpl">
+	<li><a href='${url}' {{if target == 'true' || target == 1 || target == true}}target="_blank"{{/if}}>{{if typeof image !== "undefined"}}<img src="${image.path}" alt="${title}" title="${title}" height="${image.height}" width="${image.width}"/>{{else}}${title}{{/if}}</a></li>
+</script>
+<script id="menuTmpl" TYPE="text/x-jquery-tmpl">
+	<li class="L1li">
+		<a id="L1_${id}" class="L1a" href="${url}">About</a>
+		<ul class="L2menu">
+			{{each L2}}
+                <li class='L2li'><a class='L2a' href='${url}'><span>${title}</span></a></li>
+            {{/each}}
+		</ul>
+	</li>
+</script>
+
+<script TYPE="text/javascript">var pdGlobal = {"schoolId" : "580", "schoolName" : "St. Stephen's Episcopal School", "schoolDateTime" : "1/28/2015 3:00:30 PM", "currentPageLevel" : 3, "userLoggedIn" : false, "loginBoxMode" : "Hidden", "currentPages" : [{"id" : 136673, "parentId" : 0, "title" : "About", "titleImg" : "", "url" : "__pdL('136673','About', '2', '', '', 'True', '0', '', 'default.aspx')", "type" : "content" }, {"id" : 137592, "parentId" : 136673, "title" : "Giving", "titleImg" : "", "url" : "__pdL('137592','Giving', '2', '', '', 'True', '0', '', 'default.aspx')", "type" : "content" }, {"id" : 137551, "parentId" : 137592, "title" : "Why Give", "titleImg" : "", "url" : "__pdL('137551','Why Give', '2', '', '', 'True', '0', '', 'default.aspx')", "type" : "content" }], "customUrls" : [{"id" : 136672, "url" : "http://www.sstx.org/home" }, {"id" : 136673, "url" : "http://www.sstx.org/about" }, {"id" : 136674, "url" : "http://www.sstx.org/admission" }, {"id" : 136675, "url" : "http://www.sstx.org/oncampus" }, {"id" : 136676, "url" : "http://www.sstx.org/mysses" }, {"id" : 136696, "url" : "http://www.sstx.org/A-Z" }, {"id" : 136697, "url" : "http://www.sstx.org/site_map" }, {"id" : 136698, "url" : "http://www.sstx.org/curriculum" }, {"id" : 136765, "url" : "http://www.sstx.org/contact" }, {"id" : 137119, "url" : "http://www.sstx.org/athleticschedule" }, {"id" : 137121, "url" : "http://www.sstx.org/athleticnews" }, {"id" : 137241, "url" : "http://www.sstx.org/azindex" }, {"id" : 137404, "url" : "http://www.sstx.org/library" }, {"id" : 137411, "url" : "http://www.sstx.org/residentiallife" }, {"id" : 137412, "url" : "http://www.sstx.org/collegecounseling" }, {"id" : 137430, "url" : "http://www.sstx.org/overview" }, {"id" : 137461, "url" : "http://www.sstx.org/episcopal" }, {"id" : 137462, "url" : "http://www.sstx.org/spirituallife" }, {"id" : 137463, "url" : "http://www.sstx.org/businessoffice" }, {"id" : 137464, "url" : "http://www.sstx.org/campusmap" }, {"id" : 137489, "url" : "http://www.sstx.org/directions" }, {"id" : 137491, "url" : "http://www.sstx.org/diversity" }, {"id" : 137492, "url" : "http://www.sstx.org/employment" }, {"id" : 137495, "url" : "http://www.sstx.org/about/welcome" }, {"id" : 137496, "url" : "http://www.sstx.org/history" }, {"id" : 137497, "url" : "http://www.sstx.org/give" }, {"id" : 137498, "url" : "http://www.sstx.org/mission" }, {"id" : 137499, "url" : "http://www.sstx.org/about/students" }, {"id" : 137500, "url" : "http://www.sstx.org/presskit" }, {"id" : 137503, "url" : "http://www.sstx.org/studentlife" }, {"id" : 137504, "url" : "http://www.sstx.org/about/trustees" }, {"id" : 137506, "url" : "http://www.sstx.org/trustees/responsibility" }, {"id" : 137508, "url" : "http://www.sstx.org/trustees/boardcommittees" }, {"id" : 137510, "url" : "http://www.sstx.org/trustees/nominationprocess" }, {"id" : 137512, "url" : "http://www.sstx.org/annualgiving" }, {"id" : 137541, "url" : "http://www.sstx.org/international" }, {"id" : 137545, "url" : "http://www.sstx.org/privacypolicy" }, {"id" : 137550, "url" : "http://www.sstx.org/endowment" }, {"id" : 137551, "url" : "http://www.sstx.org/giving" }, {"id" : 137552, "url" : "http://www.sstx.org/about/endowment/overview/endowmentfaqs" }, {"id" : 137553, "url" : "http://www.sstx.org/about/endowment/overview/endowmentpolicies" }, {"id" : 137554, "url" : "http://www.sstx.org/about/endowment/overview/endowmentnamingopportunities" }, {"id" : 137555, "url" : "http://www.sstx.org/namedendowments" }, {"id" : 137556, "url" : "http://www.sstx.org/stockgifts" }, {"id" : 137560, "url" : "http://www.sstx.org/framethefuture" }, {"id" : 137567, "url" : "http://www.sstx.org/plannedgiving" }, {"id" : 137568, "url" : "http://www.sstx.org/about/endowment/plannedgiving/overview" }, {"id" : 137569, "url" : "http://www.sstx.org/legacycouncil" }, {"id" : 137570, "url" : "http://www.sstx.org/about/endowment/plannedgiving/estatetaxquiz" }, {"id" : 137571, "url" : "http://www.sstx.org/about/endowment/plannedgiving/bequestlanguage" }, {"id" : 137574, "url" : "http://www.sstx.org/about/endowment/plannedgiving/meettheteam" }, {"id" : 137584, "url" : "http://www.sstx.org/about/spirituallife/religiousdiversity" }, {"id" : 137585, "url" : "http://www.sstx.org/about/spirituallife/hinesstory" }, {"id" : 137592, "url" : "http://www.sstx.org/about/giving" }, {"id" : 137616, "url" : "http://www.sstx.org/about/spirituallife" }, {"id" : 137617, "url" : "http://www.sstx.org/theology" }, {"id" : 137619, "url" : "http://www.sstx.org/trustees" }, {"id" : 138218, "url" : "http://www.sstx.org/alumni" }, {"id" : 138220, "url" : "http://www.sstx.org/davidPaschall" }, {"id" : 138222, "url" : "http://www.sstx.org/memorialsArchived" }, {"id" : 138223, "url" : "http://www.sstx.org/memorials" }, {"id" : 138226, "url" : "http://www.sstx.org/randyParten" }, {"id" : 138227, "url" : "http://www.sstx.org/reunion" }, {"id" : 138232, "url" : "http://www.sstx.org/affordingSSES" }, {"id" : 138234, "url" : "http://www.sstx.org/hotels" }, {"id" : 138235, "url" : "http://www.sstx.org/meetadmissionsteam" }, {"id" : 138240, "url" : "http://www.sstx.org/arts" }, {"id" : 138244, "url" : "http://www.sstx.org/chapel" }, {"id" : 138246, "url" : "http://www.sstx.org/collegecalendar" }, {"id" : 138247, "url" : "http://www.sstx.org/collegefaqs" }, {"id" : 138249, "url" : "http://www.sstx.org/communityservice" }, {"id" : 138250, "url" : "http://www.sstx.org/dailyschedule" }, {"id" : 138251, "url" : "http://www.sstx.org/diplomarequirements" }, {"id" : 138253, "url" : "http://www.sstx.org/japan" }, {"id" : 138254, "url" : "http://www.sstx.org/film" }, {"id" : 138255, "url" : "http://www.sstx.org/financialaid" }, {"id" : 138261, "url" : "http://www.sstx.org/glossary" }, {"id" : 138262, "url" : "http://www.sstx.org/guidetesting" }, {"id" : 138263, "url" : "http://www.sstx.org/hinesStory" }, {"id" : 138264, "url" : "http://www.sstx.org/internationalactivities" }, {"id" : 138266, "url" : "http://www.sstx.org/landstewardship" }, {"id" : 138270, "url" : "http://www.sstx.org/links" }, {"id" : 138273, "url" : "http://www.sstx.org/madrigals" }, {"id" : 138277, "url" : "http://www.sstx.org/onlinecatalog" }, {"id" : 138280, "url" : "http://www.sstx.org/modelun" }, {"id" : 138281, "url" : "http://www.sstx.org/reading" }, {"id" : 138282, "url" : "http://www.sstx.org/preparingapplication" }, {"id" : 138284, "url" : "http://www.sstx.org/religiousDiversity" }, {"id" : 138296, "url" : "http://www.sstx.org/security" }, {"id" : 138297, "url" : "http://www.sstx.org/studentgovernment" }, {"id" : 138298, "url" : "http://www.sstx.org/summerprograms" }, {"id" : 138299, "url" : "http://www.sstx.org/travel" }, {"id" : 138300, "url" : "http://www.sstx.org/team" }, {"id" : 138311, "url" : "http://www.sstx.org/testdates" }, {"id" : 138316, "url" : "http://www.sstx.org/theatrefocus" }, {"id" : 138321, "url" : "http://www.sstx.org/middleschooltheatre" }, {"id" : 138323, "url" : "http://www.sstx.org/timeline" }, {"id" : 138325, "url" : "http://www.sstx.org/trips" }, {"id" : 138326, "url" : "http://www.sstx.org/venture" }, {"id" : 138327, "url" : "http://www.sstx.org/databases" }, {"id" : 138328, "url" : "http://www.sstx.org/visitingcolleges" }, {"id" : 138554, "url" : "http://www.sstx.org/parents" }, {"id" : 141241, "url" : "http://www.sstx.org/entranceexaminations" }, {"id" : 141252, "url" : "http://www.sstx.org/specialprograms" }, {"id" : 141253, "url" : "http://www.sstx.org/admissionfaq" }, {"id" : 141254, "url" : "http://www.sstx.org/globalperspective" }, {"id" : 141305, "url" : "http://www.sstx.org/news" }, {"id" : 141308, "url" : "http://www.sstx.org/academics" }, {"id" : 141935, "url" : "http://www.sstx.org/memorialgarden" }, {"id" : 142365, "url" : "http://www.sstx.org/studentorganizations" }, {"id" : 142464, "url" : "http://www.sstx.org/artgallery" }, {"id" : 142468, "url" : "http://www.sstx.org/jazz" }, {"id" : 142469, "url" : "http://www.sstx.org/theatre" }, {"id" : 142700, "url" : "http://www.sstx.org/orchestra" }, {"id" : 142801, "url" : "http://www.sstx.org/facultydirectory" }, {"id" : 142807, "url" : "http://www.sstx.org/health" }, {"id" : 142808, "url" : "http://www.sstx.org/healthcenter" }, {"id" : 142809, "url" : "http://www.sstx.org/healthforms" }, {"id" : 142814, "url" : "http://www.sstx.org/tennisacademy" }, {"id" : 142815, "url" : "http://www.sstx.org/socceracademy" }, {"id" : 142902, "url" : "http://www.sstx.org/menus" }, {"id" : 142914, "url" : "http://www.sstx.org/dance" }, {"id" : 143425, "url" : "http://www.sstx.org/springswing" }, {"id" : 143426, "url" : "http://www.sstx.org/makeithappen" }, {"id" : 143445, "url" : "http://www.sstx.org/boosterclub" }, {"id" : 143446, "url" : "http://www.sstx.org/bus" }, {"id" : 143953, "url" : "http://www.sstx.org/seniors" }, {"id" : 144291, "url" : "http://www.sstx.org/dininghall" }, {"id" : 145444, "url" : "http://www.sstx.org/summercamps" }, {"id" : 145618, "url" : "http://www.sstx.org/idem" }, {"id" : 145857, "url" : "http://www.sstx.org/testregistrations" }, {"id" : 148588, "url" : "http://www.sstx.org/visualarts" }, {"id" : 148991, "url" : "http://www.sstx.org/bookstore" }, {"id" : 154219, "url" : "http://www.sstx.org/handbook" }, {"id" : 155936, "url" : "http://www.sstx.org/reunionrsvp" }, {"id" : 156653, "url" : "http://www.sstx.org/msclubs" }, {"id" : 157244, "url" : "http://www.sstx.org/admissionoverview" }, {"id" : 157246, "url" : "http://www.sstx.org/application" }, {"id" : 157247, "url" : "http://www.sstx.org/campusvisits" }, {"id" : 159354, "url" : "http://www.sstx.org/InternationalAdmission" }, {"id" : 161369, "url" : "http://www.sstx.org/towners" }, {"id" : 161450, "url" : "http://www.sstx.org/fosters" }, {"id" : 163302, "url" : "http://www.sstx.org/observatory" }, {"id" : 163371, "url" : "http://www.sstx.org/lostandfound" }, {"id" : 166612, "url" : "http://www.sstx.org/givenow" }, {"id" : 168709, "url" : "http://www.sstx.org/plannedgivingpages" }, {"id" : 168735, "url" : "http://www.sstx.org/chinatrip" }, {"id" : 169577, "url" : "http://www.sstx.org/middleschool" }, {"id" : 171864, "url" : "http://www.sstx.org/newparentlunch" }, {"id" : 172237, "url" : "http://www.sstx.org/padues" }, {"id" : 172479, "url" : "http://www.sstx.org/paymentbus" }, {"id" : 172480, "url" : "http://www.sstx.org/paymentseniors" }, {"id" : 172800, "url" : "http://www.sstx.org/paymentbooster" }, {"id" : 172811, "url" : "http://www.sstx.org/paymentpadues" }, {"id" : 176219, "url" : "http://www.sstx.org/reunionregistration" }, {"id" : 177094, "url" : "http://www.sstx.org/paymentpadonation" }, {"id" : 179877, "url" : "http://www.sstx.org/about/endowment/annualgiving/overview" }, {"id" : 181405, "url" : "http://www.sstx.org/65" }, {"id" : 181413, "url" : "http://www.sstx.org/testprep" }, {"id" : 182267, "url" : "http://www.sstx.org/framethefuture10" }, {"id" : 182268, "url" : "http://www.sstx.org/framethefuture25" }, {"id" : 182269, "url" : "http://www.sstx.org/framethefuture50" }, {"id" : 182270, "url" : "http://www.sstx.org/framethefutureother" }, {"id" : 182279, "url" : "http://www.sstx.org/wyclifffreeman" }, {"id" : 182280, "url" : "http://www.sstx.org/dellpedestriangreen" }, {"id" : 182281, "url" : "http://www.sstx.org/rogerbowenartsstudio" }, {"id" : 182601, "url" : "http://www.sstx.org/AlumniTestDirectory" }, {"id" : 183142, "url" : "http://www.sstx.org/weddings" }, {"id" : 183143, "url" : "http://www.sstx.org/baptisms" }], "userNavLower" : [{"id" : 135276, "title" : "MySSES", "url" : "http://www.sstx.org/podium/default.aspx?t=135276", "type" : "portal", "public" : false, "target" : "" }, {"id" : 2262, "title" : "Calendar", "url" : "http://www.sstx.org/podium/default.aspx?t=2262", "type" : "application", "public" : true, "target" : "" }, {"id" : 52560, "title" : "Media Gallery", "url" : "http://www.sstx.org/podium/default.aspx?t=52560", "type" : "application", "public" : true, "target" : "" }, {"id" : 52293, "title" : "Athletics", "url" : "http://www.sstx.org/podium/default.aspx?t=52293", "type" : "application", "public" : true, "target" : "" }, {"id" : 52302, "title" : "News", "url" : "http://www.sstx.org/podium/default.aspx?t=52302", "type" : "application", "public" : true, "target" : "" }, {"id" : 52317, "title" : "Curriculum", "url" : "http://www.sstx.org/podium/default.aspx?t=52317", "type" : "application", "public" : true, "target" : "" }, {"id" : 52888, "title" : "Search", "url" : "http://www.sstx.org/podium/default.aspx?t=52888", "type" : "application", "public" : true, "target" : "" }] }</script>
+
+
+
+
+
+
+
+
+
+<script TYPE="text/javascript">
+//<![CDATA[
+/*** ComponentArt Web.UI client-side storage for L_c5i0_sn ***/
+window.ComponentArt_Storage_L_c5i0_sn=[['p_t137495',-1,[],[[30,'Welcome'],[15,'t137495'],[40,'l2'],[17,'http://www.sstx.org/about/welcome']]],['p_t137430',-1,[],[[30,'Overview & Quick Facts'],[15,'t137430'],[40,'l2'],[17,'http://www.sstx.org/overview']]],['p_t143044',-1,[],[[30,'Alumni'],[15,'t143044'],[40,'l2'],[17,'https://www.sstx.org/podium/default.aspx?t=138217']]],['p_t137500',-1,[],[[30,'Press Kit'],[15,'t137500'],[40,'l2'],[17,'http://www.sstx.org/presskit']]],['p_t136765',-1,[5],[[30,'Contact Us'],[15,'t136765'],[40,'l2sm'],[17,'http://www.sstx.org/contact'],[20,'s3g']]],['p_t137545',4,[],[[30,'Web Policies'],[15,'t137545'],[40,'l3'],[17,'http://www.sstx.org/privacypolicy']]],['p_t137489',-1,[],[[30,'Directions'],[15,'t137489'],[40,'l2'],[17,'http://www.sstx.org/directions']]],['p_t137464',-1,[],[[30,'Campus Map'],[15,'t137464'],[40,'l2'],[17,'http://www.sstx.org/campusmap']]],['p_t137491',-1,[],[[30,'Diversity'],[15,'t137491'],[40,'l2'],[17,'http://www.sstx.org/diversity']]],['p_t137492',-1,[],[[30,'Employment'],[15,'t137492'],[40,'l2'],[17,'http://www.sstx.org/employment']]],['p_t137616',-1,[11,13,14,15,16,17,18,20,21,22],[[30,'Episcopal Identity'],[15,'t137616'],[40,'l2sm'],[17,'http://www.sstx.org/about/spirituallife'],[20,'s3g']]],['p_t137461',10,[12],[[30,'Overview'],[15,'t137461'],[40,'l3sm'],[17,'http://www.sstx.org/episcopal'],[20,'s4g']]],['p_t147098',11,[],[[30,'What It Means to be an Episcopal School'],[15,'t147098'],[40,'l4'],[17,'http://www.sstx.org/podium/default.aspx?t=147098']]],['p_t183142',10,[],[[30,'Weddings'],[15,'t183142'],[40,'l3'],[17,'http://www.sstx.org/weddings']]],['p_t183143',10,[],[[30,'Baptisms'],[15,'t183143'],[40,'l3'],[17,'http://www.sstx.org/baptisms']]],['p_t141935',10,[],[[30,'Memorial Garden '],[15,'t141935'],[40,'l3'],[17,'http://www.sstx.org/memorialgarden']]],['p_t137462',10,[],[[30,'Spiritual Life'],[15,'t137462'],[40,'l3'],[17,'http://www.sstx.org/spirituallife']]],['p_t137584',10,[],[[30,'Religious Diversity'],[15,'t137584'],[40,'l3'],[17,'http://www.sstx.org/about/spirituallife/religiousdiversity']]],['p_t137585',10,[19],[[30,'The Hines Story'],[15,'t137585'],[40,'l3sm'],[17,'http://www.sstx.org/about/spirituallife/hinesstory'],[20,'s4g']]],['p_t147105',18,[],[[30,'The Transformative Legacy of John Hines'],[15,'t147105'],[40,'l4'],[17,'http://www.sstx.org/podium/default.aspx?t=147105']]],['p_t137617',10,[],[[30,'Theology Courses'],[15,'t137617'],[40,'l3'],[17,'http://www.sstx.org/theology']]],['p_t137618',10,[],[[30,'Chaplains'],[15,'t137618'],[40,'l3'],[17,'http://www.sstx.org/podium/default.aspx?t=137618']]],['p_t138244',10,[23,24],[[30,'The Chapel: Our Physical and Spiritual Center'],[15,'t138244'],[40,'l3sm'],[17,'http://www.sstx.org/chapel'],[20,'s4g']]],['p_t138284',22,[],[[30,'Religious Diversity'],[15,'t138284'],[40,'l4'],[17,'http://www.sstx.org/religiousDiversity']]],['p_t138263',22,[],[[30,'The Hines Story'],[15,'t138263'],[40,'l4'],[17,'http://www.sstx.org/hinesStory']]],['p_t142801',-1,[],[[30,'Faculty & Staff Directory'],[15,'t142801'],[40,'l2'],[17,'http://www.sstx.org/facultydirectory']]],['p_t137592',-1,[27,28,30,36,41,47,48,49,50,51],[[30,'Giving'],[15,'t137592'],[40,'l2ssm'],[17,'http://www.sstx.org/about/giving'],[20,'s3g']]],['p_t137551',26,[],[[30,'Why Give'],[15,'t137551'],[40,'l3s'],[17,'http://www.sstx.org/giving']]],['p_t137512',26,[29],[[30,'Annual Giving'],[15,'t137512'],[40,'l3sm'],[17,'http://www.sstx.org/annualgiving'],[20,'s4g']]],['p_t179877',28,[],[[30,'Overview'],[15,'t179877'],[40,'l4'],[17,'http://www.sstx.org/about/endowment/annualgiving/overview']]],['p_t137560',26,[31,32,33,34,35],[[30,'Frame the Future Campaign'],[15,'t137560'],[40,'l3sm'],[17,'http://www.sstx.org/framethefuture'],[20,'s4g']]],['p_t144291',30,[],[[30,'Dining Hall / Student Center'],[15,'t144291'],[40,'l4'],[17,'http://www.sstx.org/dininghall']]],['p_t166351',30,[],[[30,'Fitness and Wellness Addition'],[15,'t166351'],[40,'l4'],[17,'http://www.sstx.org/podium/default.aspx?t=166351']]],['p_t182279',30,[],[[30,'Wycliff-Freeman House'],[15,'t182279'],[40,'l4'],[17,'http://www.sstx.org/wyclifffreeman']]],['p_t182280',30,[],[[30,'Dell Pedestrian Green'],[15,'t182280'],[40,'l4'],[17,'http://www.sstx.org/dellpedestriangreen']]],['p_t182281',30,[],[[30,'Roger Bowen Arts Studio'],[15,'t182281'],[40,'l4'],[17,'http://www.sstx.org/rogerbowenartsstudio']]],['p_t137550',26,[37,38,39,40],[[30,'Endowment'],[15,'t137550'],[40,'l3sm'],[17,'http://www.sstx.org/endowment'],[20,'s4g']]],['p_t137552',36,[],[[30,'Endowment FAQs'],[15,'t137552'],[40,'l4'],[17,'http://www.sstx.org/about/endowment/overview/endowmentfaqs']]],['p_t137553',36,[],[[30,'Endowment Policies'],[15,'t137553'],[40,'l4'],[17,'http://www.sstx.org/about/endowment/overview/endowmentpolicies']]],['p_t137555',36,[],[[30,'Named Endowments'],[15,'t137555'],[40,'l4'],[17,'http://www.sstx.org/namedendowments']]],['p_t137554',36,[],[[30,'Endowment Naming Opportunities'],[15,'t137554'],[40,'l4'],[17,'http://www.sstx.org/about/endowment/overview/endowmentnamingopportunities']]],['p_t137567',26,[42,43,44,45,46],[[30,'Planned Giving'],[15,'t137567'],[40,'l3sm'],[17,'http://www.sstx.org/plannedgiving'],[20,'s4g']]],['p_t137568',41,[],[[30,'Overview'],[15,'t137568'],[40,'l4'],[17,'http://www.sstx.org/about/endowment/plannedgiving/overview']]],['p_t137570',41,[],[[30,'Estate Tax Quiz'],[15,'t137570'],[40,'l4'],[17,'http://www.sstx.org/about/endowment/plannedgiving/estatetaxquiz']]],['p_t137569',41,[],[[30,'Legacy Council'],[15,'t137569'],[40,'l4'],[17,'http://www.sstx.org/legacycouncil']]],['p_t137571',41,[],[[30,'Bequest Language'],[15,'t137571'],[40,'l4'],[17,'http://www.sstx.org/about/endowment/plannedgiving/bequestlanguage']]],['p_t168709',41,[],[[30,'Stelter Planned Giving Pages'],[15,'t168709'],[40,'l4'],[17,'http://www.sstx.org/plannedgivingpages']]],['p_t137573',26,[],[[30,'Gift Acceptance Policies (PDF)'],[15,'t137573'],[40,'l3'],[28,'_blank'],[17,'http://www.sstx.org/ftpimages/580/misc/misc_83264.pdf']]],['p_t137574',26,[],[[30,'Meet the Team'],[15,'t137574'],[40,'l3'],[17,'http://www.sstx.org/about/endowment/plannedgiving/meettheteam']]],['p_t137497',26,[],[[30,'Make a Gift'],[15,'t137497'],[40,'l3'],[17,'http://www.sstx.org/give']]],['p_t137556',26,[],[[30,'Stock Gifts'],[15,'t137556'],[40,'l3'],[17,'http://www.sstx.org/stockgifts']]],['p_t166612',26,[],[[30,'Give Now'],[15,'t166612'],[40,'l3'],[17,'http://www.sstx.org/givenow']]],['p_t137496',-1,[53],[[30,'History & Traditions'],[15,'t137496'],[40,'l2sm'],[17,'http://www.sstx.org/history'],[20,'s3g']]],['p_t147109',52,[],[[30,'Brewster on Brewster: Honoring His Father\'s Memory'],[15,'t147109'],[40,'l3'],[17,'http://www.sstx.org/podium/default.aspx?t=147109']]],['p_t137498',-1,[],[[30,'Mission, Vision & Values'],[15,'t137498'],[40,'l2'],[17,'http://www.sstx.org/mission']]],['p_t138266',-1,[],[[30,'Stewardship of the Land'],[15,'t138266'],[40,'l2'],[17,'http://www.sstx.org/landstewardship']]],['p_t137504',-1,[57,58,59,60,61],[[30,'Trustees'],[15,'t137504'],[40,'l2sm'],[17,'http://www.sstx.org/about/trustees'],[20,'s3g']]],['p_t137619',56,[],[[30,'Overview'],[15,'t137619'],[40,'l3'],[17,'http://www.sstx.org/trustees']]],['p_t137506',56,[],[[30,'Responsibility'],[15,'t137506'],[40,'l3'],[17,'http://www.sstx.org/trustees/responsibility']]],['p_t137508',56,[],[[30,'Board Committees'],[15,'t137508'],[40,'l3'],[17,'http://www.sstx.org/trustees/boardcommittees']]],['p_t137510',56,[],[[30,'Nomination Process'],[15,'t137510'],[40,'l3'],[17,'http://www.sstx.org/trustees/nominationprocess']]],['p_t162050',56,[],[[30,'Trustee Portal'],[15,'t162050'],[40,'l3'],[28,'_blank'],[17,'http://www.sstx.org/trusteeportal']]],['p_t147090',-1,[],[[30,'Strategic Goals'],[15,'t147090'],[40,'l2'],[17,'http://www.sstx.org/podium/default.aspx?t=147090']]]];
+window.ComponentArt_ItemLooks_L_c5i0_sn=[[0,'l1',1,'s1',2,'s1o',9,'s1s',27,0,28,0],[0,'l1sm',1,'s1sm',2,'s1osm',9,'s1ssm',27,0,28,0],[0,'l1s',1,'s1s',2,'s1s',9,'s1s',27,0,28,0],[0,'l1ssm',1,'s1ssm',2,'s1ssm',9,'s1ssm',27,0,28,0],[0,'l2',1,'s2',2,'s2o',9,'s2s',27,0,28,0],[0,'l2sm',1,'s2sm',2,'s2osm',9,'s2ssm',27,0,28,0],[0,'l2s',1,'s2s',2,'s2s',9,'s2s',27,0,28,0],[0,'l2ssm',1,'s2ssm',2,'s2ssm',9,'s2ssm',27,0,28,0],[0,'l3',1,'s3',2,'s3o',9,'s3s',27,0,28,0],[0,'l3sm',1,'s3sm',2,'s3osm',9,'s3ssm',27,0,28,0],[0,'l3s',1,'s3s',2,'s3s',9,'s3s',27,0,28,0],[0,'l3ssm',1,'s3ssm',2,'s3ssm',9,'s3ssm',27,0,28,0],[0,'l4',1,'s4',2,'s4o',9,'s4s',27,0,28,0],[0,'l4sm',1,'s4sm',2,'s4osm',9,'s4ssm',27,0,28,0],[0,'l4s',1,'s4s',2,'s4s',9,'s4s',27,0,28,0],[0,'l4ssm',1,'s4ssm',2,'s4ssm',9,'s4ssm',27,0,28,0]];
+window.ComponentArt_ScrollLooks_L_c5i0_sn=[[],[]];
+
+//]]>
+</script>
+
+
+<style>
+
+/* Reduce the space between the button and rollover text */
+div.stl-colwrap div.stl-col.stl-w-04, .stl-center .col-sm-4 {
+    margin-bottom: 40px;
+    position: relative;
+    top: 60px;
+    width: 31.3333%;
+}
+
+/* Journey section reduce the margin above the buttons */
+.journey-main .stl-button {
+    margin-top: 0;
+}
+
+/* Journey rollover closer to the buttons */
+#stl-cms div.stl-info-slider div.stl-slider-wrap ul {
+    left: 0;
+    margin: 40px 0 0;
+    opacity: 0;
+    padding: 0 0 0;
+    position: absolute;
+    text-align: left;
+    top: 300px;
+    transition: all 0.5s ease-in-out 0s;
+    vertical-align: bottom;
+    width: 100%;
+}
+
+/* Give Now below the navigation  */
+#stl-cms ul.stl-nav li:nth-child(8) a{
+background: url("/Documents/give_now.jpg") no-repeat scroll center bottom #fff;
+padding-bottom: 32px;
+color: transparent !important;
+
+}
+
+/*Give Now Right Banner Client Override*/
+.smbuttons_19745 {
+    list-style: outside none none;
+    padding-left: 0;
+    position: relative;
+    text-align: left;
+}
+
+
+</style>
+
+
+
+
+    <!-- start gift illustrator files -->
+    <script TYPE="text/javascript" SRC="//web.giftillustrator.com/Calculator/Production/scripts/jquery.noConflict.noniframe.js"></script>
+    <script TYPE="text/javascript" SRC="//web.giftillustrator.com/Calculator/Production/scripts/jquery.fancybox-1.3.4.pack.js"></script>
+    <script TYPE="text/javascript" SRC="//web.giftillustrator.com/Calculator/Production/scripts/custom.fancybox.noniframe.js"></script>
+    <link REL="stylesheet" TYPE="text/css" HREF="//web.giftillustrator.com/Calculator/Production/css/jquery.fancybox-1.3.4.css" MEDIA="screen" />
+    <link REL="stylesheet" TYPE="text/css" HREF="//web.giftillustrator.com/Calculator/Production/css/custom.fancybox.css" MEDIA="screen" />
+    <!-- end gift illustrator files -->
+</head>
+<body class="HomePage  st.-stephen&#39;s-episcopal-school" id="PageBody">
+    <a HREF="http://stelter.ingeniuxondemand.com/DssPreview/x48185.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=#skip" CLASS="sr-only">Skip to Content</a>
+
+    
+<form METHOD="post" ACTION="//www.sstx.org/about/giving" id="Form1">
+
+
+<script TYPE="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form1'];
+if (!theForm) {
+    theForm = document.Form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script SRC="//www.sstx.org/podium/WebResource.axd?d=CHLsfm2dTSCQEtOzN3w9TosZvNmY7C3yC4uNF9H2rf3RmmY6xdAbij780rIiQbcmHGHubcqrjalNyS7E9zpVDNG7Hfo1&amp;t=635418529580000000" TYPE="text/javascript"></script>
+
+
+
+<script SRC="//www.sstx.org/podium/WebResource.axd?d=fRbMiYXV87M2F8JzsligEeRxivqJTpjo-XrY_H0hen3TUGVaTVEnud2tRBnzxrAVPkrZeY2_8A6rnEokMPzrMboGZerUXaL6XFcvv9scvkb4OZfD0&amp;t=635542507814411189" TYPE="text/javascript"></script>
+<script SRC="Documents/S/st-stephans-episcopal-school/jquery.pdsearch.js" TYPE="text/javascript"></script>
+<script TYPE="text/javascript">
+//<![CDATA[
+$(document).ready(function(){pdChangeCheckInit(0,0)});//]]>
+</script>
+
+<div CLASS="aspNetHidden">
+
+	<input TYPE="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" VALUE="FC13F448" />
+</div>
+			
+<script TYPE="text/javascript">var pdGlobal = {"schoolId" : "580", "schoolName" : "St. Stephen's Episcopal School", "schoolDateTime" : "1/20/2015 11:49:18 AM", "currentPageLevel" : 3, "userLoggedIn" : false, "loginBoxMode" : "Hidden", "currentPages" : [{"id" : 136673, "parentId" : 0, "title" : "About", "titleImg" : "", "url" : "__pdL('136673','About', '2', '', '', 'True', '0', '', 'default.aspx')", "type" : "content" }, {"id" : 137592, "parentId" : 136673, "title" : "Giving", "titleImg" : "", "url" : "__pdL('137592','Giving', '2', '', '', 'True', '0', '', 'default.aspx')", "type" : "content" }, {"id" : 137551, "parentId" : 137592, "title" : "Why Give", "titleImg" : "", "url" : "__pdL('137551','Why Give', '2', '', '', 'True', '0', '', 'default.aspx')", "type" : "content" }], "customUrls" : [{"id" : 136672, "url" : "//www.sstx.org/home" }, {"id" : 136673, "url" : "//www.sstx.org/about" }, {"id" : 136674, "url" : "//www.sstx.org/admission" }, {"id" : 136675, "url" : "//www.sstx.org/oncampus" }, {"id" : 136676, "url" : "//www.sstx.org/mysses" }, {"id" : 136696, "url" : "//www.sstx.org/A-Z" }, {"id" : 136697, "url" : "//www.sstx.org/site_map" }, {"id" : 136698, "url" : "//www.sstx.org/curriculum" }, {"id" : 136765, "url" : "//www.sstx.org/contact" }, {"id" : 137119, "url" : "//www.sstx.org/athleticschedule" }, {"id" : 137121, "url" : "//www.sstx.org/athleticnews" }, {"id" : 137241, "url" : "//www.sstx.org/azindex" }, {"id" : 137404, "url" : "//www.sstx.org/library" }, {"id" : 137411, "url" : "//www.sstx.org/residentiallife" }, {"id" : 137412, "url" : "//www.sstx.org/collegecounseling" }, {"id" : 137430, "url" : "//www.sstx.org/overview" }, {"id" : 137461, "url" : "//www.sstx.org/episcopal" }, {"id" : 137462, "url" : "//www.sstx.org/spirituallife" }, {"id" : 137463, "url" : "//www.sstx.org/businessoffice" }, {"id" : 137464, "url" : "//www.sstx.org/campusmap" }, {"id" : 137489, "url" : "//www.sstx.org/directions" }, {"id" : 137491, "url" : "//www.sstx.org/diversity" }, {"id" : 137492, "url" : "//www.sstx.org/employment" }, {"id" : 137495, "url" : "//www.sstx.org/about/welcome" }, {"id" : 137496, "url" : "//www.sstx.org/history" }, {"id" : 137497, "url" : "//www.sstx.org/give" }, {"id" : 137498, "url" : "//www.sstx.org/mission" }, {"id" : 137499, "url" : "//www.sstx.org/about/students" }, {"id" : 137500, "url" : "//www.sstx.org/presskit" }, {"id" : 137503, "url" : "//www.sstx.org/studentlife" }, {"id" : 137504, "url" : "//www.sstx.org/about/trustees" }, {"id" : 137506, "url" : "//www.sstx.org/trustees/responsibility" }, {"id" : 137508, "url" : "//www.sstx.org/trustees/boardcommittees" }, {"id" : 137510, "url" : "//www.sstx.org/trustees/nominationprocess" }, {"id" : 137512, "url" : "//www.sstx.org/annualgiving" }, {"id" : 137541, "url" : "//www.sstx.org/international" }, {"id" : 137545, "url" : "//www.sstx.org/privacypolicy" }, {"id" : 137550, "url" : "//www.sstx.org/endowment" }, {"id" : 137551, "url" : "//www.sstx.org/giving" }, {"id" : 137552, "url" : "//www.sstx.org/about/endowment/overview/endowmentfaqs" }, {"id" : 137553, "url" : "//www.sstx.org/about/endowment/overview/endowmentpolicies" }, {"id" : 137554, "url" : "//www.sstx.org/about/endowment/overview/endowmentnamingopportunities" }, {"id" : 137555, "url" : "//www.sstx.org/namedendowments" }, {"id" : 137556, "url" : "//www.sstx.org/stockgifts" }, {"id" : 137560, "url" : "//www.sstx.org/framethefuture" }, {"id" : 137566, "url" : "//www.sstx.org/about/endowment/givenamedendowments" }, {"id" : 137567, "url" : "//www.sstx.org/plannedgiving" }, {"id" : 137568, "url" : "//www.sstx.org/about/endowment/plannedgiving/overview" }, {"id" : 137569, "url" : "//www.sstx.org/legacycouncil" }, {"id" : 137570, "url" : "//www.sstx.org/about/endowment/plannedgiving/estatetaxquiz" }, {"id" : 137571, "url" : "//www.sstx.org/about/endowment/plannedgiving/bequestlanguage" }, {"id" : 137574, "url" : "//www.sstx.org/about/endowment/plannedgiving/meettheteam" }, {"id" : 137584, "url" : "//www.sstx.org/about/spirituallife/religiousdiversity" }, {"id" : 137585, "url" : "//www.sstx.org/about/spirituallife/hinesstory" }, {"id" : 137592, "url" : "//www.sstx.org/about/giving" }, {"id" : 137616, "url" : "//www.sstx.org/about/spirituallife" }, {"id" : 137617, "url" : "//www.sstx.org/theology" }, {"id" : 137619, "url" : "//www.sstx.org/trustees" }, {"id" : 138218, "url" : "//www.sstx.org/alumni" }, {"id" : 138220, "url" : "//www.sstx.org/davidPaschall" }, {"id" : 138222, "url" : "//www.sstx.org/memorialsArchived" }, {"id" : 138223, "url" : "//www.sstx.org/memorials" }, {"id" : 138226, "url" : "//www.sstx.org/randyParten" }, {"id" : 138227, "url" : "//www.sstx.org/reunion" }, {"id" : 138232, "url" : "//www.sstx.org/affordingSSES" }, {"id" : 138234, "url" : "//www.sstx.org/hotels" }, {"id" : 138235, "url" : "//www.sstx.org/meetadmissionsteam" }, {"id" : 138240, "url" : "//www.sstx.org/arts" }, {"id" : 138244, "url" : "//www.sstx.org/chapel" }, {"id" : 138246, "url" : "//www.sstx.org/collegecalendar" }, {"id" : 138247, "url" : "//www.sstx.org/collegefaqs" }, {"id" : 138249, "url" : "//www.sstx.org/communityservice" }, {"id" : 138250, "url" : "//www.sstx.org/dailyschedule" }, {"id" : 138251, "url" : "//www.sstx.org/diplomarequirements" }, {"id" : 138253, "url" : "//www.sstx.org/japan" }, {"id" : 138254, "url" : "//www.sstx.org/film" }, {"id" : 138255, "url" : "//www.sstx.org/financialaid" }, {"id" : 138261, "url" : "//www.sstx.org/glossary" }, {"id" : 138262, "url" : "//www.sstx.org/guidetesting" }, {"id" : 138263, "url" : "//www.sstx.org/hinesStory" }, {"id" : 138264, "url" : "//www.sstx.org/internationalactivities" }, {"id" : 138266, "url" : "//www.sstx.org/landstewardship" }, {"id" : 138270, "url" : "//www.sstx.org/links" }, {"id" : 138273, "url" : "//www.sstx.org/madrigals" }, {"id" : 138277, "url" : "//www.sstx.org/onlinecatalog" }, {"id" : 138280, "url" : "//www.sstx.org/modelun" }, {"id" : 138281, "url" : "//www.sstx.org/reading" }, {"id" : 138282, "url" : "//www.sstx.org/preparingapplication" }, {"id" : 138284, "url" : "//www.sstx.org/religiousDiversity" }, {"id" : 138296, "url" : "//www.sstx.org/security" }, {"id" : 138297, "url" : "//www.sstx.org/studentgovernment" }, {"id" : 138298, "url" : "//www.sstx.org/summerprograms" }, {"id" : 138299, "url" : "//www.sstx.org/travel" }, {"id" : 138300, "url" : "//www.sstx.org/team" }, {"id" : 138311, "url" : "//www.sstx.org/testdates" }, {"id" : 138316, "url" : "//www.sstx.org/theatrefocus" }, {"id" : 138321, "url" : "//www.sstx.org/middleschooltheatre" }, {"id" : 138323, "url" : "//www.sstx.org/timeline" }, {"id" : 138325, "url" : "//www.sstx.org/trips" }, {"id" : 138326, "url" : "//www.sstx.org/venture" }, {"id" : 138327, "url" : "//www.sstx.org/databases" }, {"id" : 138328, "url" : "//www.sstx.org/visitingcolleges" }, {"id" : 138554, "url" : "//www.sstx.org/parents" }, {"id" : 141241, "url" : "//www.sstx.org/entranceexaminations" }, {"id" : 141252, "url" : "//www.sstx.org/specialprograms" }, {"id" : 141253, "url" : "//www.sstx.org/admissionfaq" }, {"id" : 141254, "url" : "//www.sstx.org/globalperspective" }, {"id" : 141305, "url" : "//www.sstx.org/news" }, {"id" : 141308, "url" : "//www.sstx.org/academics" }, {"id" : 141935, "url" : "//www.sstx.org/memorialgarden" }, {"id" : 142365, "url" : "//www.sstx.org/studentorganizations" }, {"id" : 142464, "url" : "//www.sstx.org/artgallery" }, {"id" : 142468, "url" : "//www.sstx.org/jazz" }, {"id" : 142469, "url" : "//www.sstx.org/theatre" }, {"id" : 142700, "url" : "//www.sstx.org/orchestra" }, {"id" : 142801, "url" : "//www.sstx.org/facultydirectory" }, {"id" : 142807, "url" : "//www.sstx.org/health" }, {"id" : 142808, "url" : "//www.sstx.org/healthcenter" }, {"id" : 142809, "url" : "//www.sstx.org/healthforms" }, {"id" : 142814, "url" : "//www.sstx.org/tennisacademy" }, {"id" : 142815, "url" : "//www.sstx.org/socceracademy" }, {"id" : 142902, "url" : "//www.sstx.org/menus" }, {"id" : 142914, "url" : "//www.sstx.org/dance" }, {"id" : 143425, "url" : "//www.sstx.org/springswing" }, {"id" : 143426, "url" : "//www.sstx.org/makeithappen" }, {"id" : 143445, "url" : "//www.sstx.org/boosterclub" }, {"id" : 143446, "url" : "//www.sstx.org/bus" }, {"id" : 143953, "url" : "//www.sstx.org/seniors" }, {"id" : 144291, "url" : "//www.sstx.org/dininghall" }, {"id" : 145444, "url" : "//www.sstx.org/summercamps" }, {"id" : 145618, "url" : "//www.sstx.org/idem" }, {"id" : 145857, "url" : "//www.sstx.org/testregistrations" }, {"id" : 148588, "url" : "//www.sstx.org/visualarts" }, {"id" : 148991, "url" : "//www.sstx.org/bookstore" }, {"id" : 154219, "url" : "//www.sstx.org/handbook" }, {"id" : 155936, "url" : "//www.sstx.org/reunionrsvp" }, {"id" : 156653, "url" : "//www.sstx.org/msclubs" }, {"id" : 157244, "url" : "//www.sstx.org/admissionoverview" }, {"id" : 157246, "url" : "//www.sstx.org/application" }, {"id" : 157247, "url" : "//www.sstx.org/campusvisits" }, {"id" : 159354, "url" : "//www.sstx.org/InternationalAdmission" }, {"id" : 161369, "url" : "//www.sstx.org/towners" }, {"id" : 161450, "url" : "//www.sstx.org/fosters" }, {"id" : 163302, "url" : "//www.sstx.org/observatory" }, {"id" : 163371, "url" : "//www.sstx.org/lostandfound" }, {"id" : 166612, "url" : "//www.sstx.org/givenow" }, {"id" : 168709, "url" : "//www.sstx.org/plannedgivingpages" }, {"id" : 168735, "url" : "//www.sstx.org/chinatrip" }, {"id" : 169577, "url" : "//www.sstx.org/middleschool" }, {"id" : 171864, "url" : "//www.sstx.org/newparentlunch" }, {"id" : 172237, "url" : "//www.sstx.org/padues" }, {"id" : 172479, "url" : "//www.sstx.org/paymentbus" }, {"id" : 172480, "url" : "//www.sstx.org/paymentseniors" }, {"id" : 172800, "url" : "//www.sstx.org/paymentbooster" }, {"id" : 172811, "url" : "//www.sstx.org/paymentpadues" }, {"id" : 176219, "url" : "//www.sstx.org/reunionregistration" }, {"id" : 177094, "url" : "//www.sstx.org/paymentpadonation" }, {"id" : 179877, "url" : "//www.sstx.org/about/endowment/annualgiving/overview" }, {"id" : 181405, "url" : "//www.sstx.org/65" }, {"id" : 181413, "url" : "//www.sstx.org/testprep" }, {"id" : 182267, "url" : "//www.sstx.org/framethefuture10" }, {"id" : 182268, "url" : "//www.sstx.org/framethefuture25" }, {"id" : 182269, "url" : "//www.sstx.org/framethefuture50" }, {"id" : 182270, "url" : "//www.sstx.org/framethefutureother" }, {"id" : 182279, "url" : "//www.sstx.org/wyclifffreeman" }, {"id" : 182280, "url" : "//www.sstx.org/dellpedestriangreen" }, {"id" : 182281, "url" : "//www.sstx.org/rogerbowenartsstudio" }, {"id" : 182282, "url" : "//www.sstx.org/emergingscholars" }, {"id" : 182601, "url" : "//www.sstx.org/AlumniTestDirectory" }, {"id" : 183142, "url" : "//www.sstx.org/weddings" }, {"id" : 183143, "url" : "//www.sstx.org/baptisms" }], "userNavLower" : [{"id" : 135276, "title" : "MySSES", "url" : "//www.sstx.org/podium/default.aspx?t=135276", "type" : "portal", "public" : false, "target" : "" }, {"id" : 2262, "title" : "Calendar", "url" : "//www.sstx.org/podium/default.aspx?t=2262", "type" : "application", "public" : true, "target" : "" }, {"id" : 52560, "title" : "Media Gallery", "url" : "//www.sstx.org/podium/default.aspx?t=52560", "type" : "application", "public" : true, "target" : "" }, {"id" : 52293, "title" : "Athletics", "url" : "//www.sstx.org/podium/default.aspx?t=52293", "type" : "application", "public" : true, "target" : "" }, {"id" : 52302, "title" : "News", "url" : "//www.sstx.org/podium/default.aspx?t=52302", "type" : "application", "public" : true, "target" : "" }, {"id" : 52317, "title" : "Curriculum", "url" : "//www.sstx.org/podium/default.aspx?t=52317", "type" : "application", "public" : true, "target" : "" }, {"id" : 52888, "title" : "Search", "url" : "https://www.sstx.org/podium/default.aspx?t=52830", "type" : "application", "public" : true, "target" : "" }] }</script>
+<input TYPE="hidden" name="__TASKID" VALUE="" /><input TYPE="hidden" name="__TASKNAME" VALUE="" /><input TYPE="hidden" name="__TASKTYPEID" VALUE="" /><input TYPE="hidden" name="__TASKARGS" VALUE="" /><input TYPE="hidden" name="__APPPATH" VALUE="" /><input TYPE="hidden" name="__CLEARHISTORY" VALUE="" /><input TYPE="hidden" name="__SUBTASKID" VALUE="" /><input TYPE="hidden" name="__SUBTASKNAME" VALUE="" /><input TYPE="hidden" name="__PD" VALUE="" /><input TYPE="hidden" name="__PDTIMER" VALUE="" /><input TYPE="hidden" name="__PDAJAXREFRESHFUNC" VALUE="" /><input TYPE="hidden" name="__PDAJAXREFRESHVS" VALUE="" /><input TYPE="hidden" name="__pdVIEWSTATE" VALUE="" /><script language="javascript">theform.__pdVIEWSTATE.value='ADyRu9TTl+FG9iSBF3spE5xGzejUloYAIayjqL8VQ01GG1Gqy1zXl8PUEfqhFm3NWrFOXwZQs9318CWBDhcnkJjj2YE99/n3cL3fPadURzCQko3eytp+SJeGlnju70NLwxE/pJPoqD6KGAQ65fLMpl/eHqmQGDF0zbIZ76nHFoeobQEn9rB/0IOg7/tIV5BqnmR6sn7+G0K/WLtxDHCc7+y60HtT4CrWAXRZEtBCTwHo5dsoNlNuOHKxkqRbRMIwF08ywZyMb/7o3xPr80xW1xaGrs1U9xYtLNgh5wdhAH3hO5tPcdRbgDqLkqYaqx/bjLrynBehsF5NpKePBoNcxDOsO6k2t9Ulud973A+U2xuAS8ctK91D20n3s+VZOHIMz3I7eOQeCRU1M7RQmu7yzUi/5gYx11/H0fcSqU9IADvWyLVaiBbsujdfy1lyivL6IHcR41Lf7e3DJigWgU87bDjmG+22pdOYeGbYsoJTuma/MoCRmrq6IE5xWz+gi8th42eNpqEISSDkY0Nys4P1IGwB1Lb+55iwwkk/DpYNErU8B+abZ+8/VAeHYnIR9BTHr2w9GQm5DeCJMdFBz28TVQzjqB2S4H+pWnOEQOENlzLmb+97FJfa0hWM2MlrvsRx3ln0uArDL0p769ir9Jw/cNmnB9O4lU92/GagZdbXsisGS87JeKbklwt9sMsimGE5ksOl6gBQebd70G8hc2p47uVh5ZJd1RyEhr3XIeZb6eUcxgxUgwyklA6O6mJ9pNMzQZS2Nx3Q7S7hrx69sPhx/w==';</script><table BORDER="0" CELLSPACING="0" CELLPADDING="0" id="lOutTbl"><tr><td id="lOutTblLCell" CLASS="sitelayout" VALIGN="top"><link REL="stylesheet" TYPE="text/css" HREF="//www.sstx.org/css/banner.css" />
+<link REL="shortcut icon" HREF="//www.sstx.org/favicon.ico" />
+
+<div id="banner">
+	<h1 id="schName"><a HREF="//www.sstx.org/home">St. Stephen's Episcopal School</a></h1>
+	<a id="makeGift" HREF="https://www.sstx.org/podium/default.aspx?t=166612" TARGET="_blank">Make a Gift Now</a>
+	<div id="searchContainer">
+		<a id="a-z" HREF="//www.sstx.org/podium/default.aspx?t=136696">A-Z Index</a>
+		<input TYPE="text" onclick="this.value='';" onfocus="javascript:this.select();" name="Search" VALUE="Search" id="search" autocomplete="off" CLASS="ac_input">
+	</div>
+<!-- Beginning Top Nav -->
+	<ul id="L1">
+		<li><a id="L1_136673" HREF="//www.sstx.org/podium/default.aspx?t=136673">About</a></li>
+		<li><a id="L1_136674" HREF="//www.sstx.org/podium/default.aspx?t=136674">Admission</a></li>
+		<li><a id="L1_136675" HREF="//www.sstx.org/podium/default.aspx?t=136675">Life On Campus</a></li>
+		<li><a id="L1_136676" HREF="//www.sstx.org/podium/default.aspx?t=136676">MySSES</a></li>
+	</ul>
+	
+</div>
+
+<!-- End Visible Top Nav -->
+
+<!-- Side Nav and Content -->
+<table BORDER="0" CELLSPACING="0" CELLPADDING="0" id="lInTbl"><tr><td VALIGN="top" id="lInTblLCell" CLASS="sitelcol"><div id="lNavTop" CLASS="lcoltop"><!-- --></div><div id="lNavPhoto" CLASS="sitetph"></div><div id="lNavSep" CLASS="lcolnsep"><!-- --></div><span id="L_c5i0"><div CLASS="shdr"><!-- --></div>
+
+<script SRC="//www.sstx.org/podium/WebResource.axd?d=NwL5GxBY4wvg-tadCls6W9ag8V4dX78u0oSljmNaZH6eVRFq-J_dW1bih-7rGFsXCjv8xY7tqdVhp7cEwbPVH4zJwWzjqoTnIuydgBWRCIcqTtm7CIVjxmBDuuzJQYhhXZ6SW7jZrUqNZs35YYFSj4JvhL9JrgAVXsnOwqlxavj4Io6Bwo-s5-z1eTSb7SUHdWjuew2&amp;t=635568956761868713" TYPE="text/javascript"></script>
+
+<script SRC="//www.sstx.org/podium/WebResource.axd?d=VAkJBQsfnMeYHw01URKhlBsbBIuLfAClp-e-BYoCpHlJ8rM8dVHamXm2C8zPLaeftyWpDQP_M9c9-2VwP8AscygWESPT72eTpC_b91pGlJ3Y9iZB6gqiPaiUS8fcQnOp8lH5HC-V7Xj_QsvewuxclT8BlXv3OHdLeyrRSXdL4jbHTWs8Ki6I-Yay1iGJ1knW5U3MEg2&amp;t=635568956761868713" TYPE="text/javascript"></script>
+
+<script SRC="//www.sstx.org/podium/WebResource.axd?d=ri95-MjUJbDTDuxKkWRM3Q_yjtSJvOMUixzlFXJudaMRmIPEx3nwh4JZ7IvK8VQW59Sma4GkDaRMnJdZPWr5qrEn05wBrQO4WO33rCBJvpftXiivZry9t-JodAQY0ijPhTERbLbhLkf1k5a6X49ouoWDD8xq0MnS4fDl0vQUoq0OXRvZevQEDAfuh1ON_UZO_sTMrg2&amp;t=635568956761868713" TYPE="text/javascript"></script>
+
+<script SRC="//www.sstx.org/podium/WebResource.axd?d=xIZPHKSBnZ36zRn9skeAouY1YXXlEmR8jHQo2DLDrf5owLLpVhHPfSOwwyRrAirw8siDL3JudwTCCxRGbO1DdJPk6DxORI4QxFy1-a6e7JcgWKNnrC9XEkUz0xZeAjGpjn4i58sTdPTCdArT_AOeysss1O1WPPYoStxadfbYwttNATooQDzPfY1LLf6EcxSLnPSLciT11YZS2bdGk3h86PcqLLI1&amp;t=635568956761868713" TYPE="text/javascript"></script>
+
+<script SRC="//www.sstx.org/podium/WebResource.axd?d=tf1dXxRveKEq-O5dteGrFhIwoTHkYFK1-CcQhc2iL9ZHURti5KjLF1F-wY8E_MSIH7BDQ0u_Vb_jNwhTpy4-glwH4iz1rkF6it9F0nh-WEU5GTexuChocGGow4WtuCTdf7LJLUTb_PLZZLLKiLV9RXbrCrYckF9rIzg2mjeihjhgkqKV2RzPPAjgrRvHf1TL5o2IIHsU5sjd28bM1C_7JYkyx_I1&amp;t=635568956761868713" TYPE="text/javascript"></script>
+
+<script SRC="//www.sstx.org/podium/WebResource.axd?d=yDAoSJEcGPHkr2o8TPmBh579o-wCvB8QbHzcB-2_IyJphQM8NCucFIUMhFG_6QTCpV0eOfOWyCqjJW1j3Xca9tOM7ZrffL72rkKSmcyWUo6ODtbH_x73H2kQaj-Ts8zVY6lLyJwpfURgB4CI0-nftGvg9fNOqIuQboObzjZGjlc0psJcgMKQ5hbFvxlLp76aCepBB1KNR_RYsi1NcuFKajfD2mY1&amp;t=635568956761868713" TYPE="text/javascript"></script>
+<!-- Dropdown Nav Menu Items -->
+<script TYPE="text/javascript">
+//<![CDATA[
+/*** ComponentArt Web.UI client-side storage for L_c5i0_sn ***/
+window.ComponentArt_Storage_L_c5i0_sn=[['p_t137495',-1,[],[[30,'Welcome'],[15,'t137495'],[40,'l2'],[17,'/about/welcome']]],['p_t137430',-1,[],[[30,'Overview & Quick Facts'],[15,'t137430'],[40,'l2'],[17,'/overview']]],['p_t143044',-1,[],[[30,'Alumni'],[15,'t143044'],[40,'l2'],[17,'https://www.sstx.org/podium/default.aspx?t=138217']]],['p_t137500',-1,[],[[30,'Press Kit'],[15,'t137500'],[40,'l2'],[17,'/presskit']]],['p_t136765',-1,[5],[[30,'Contact Us'],[15,'t136765'],[40,'l2sm'],[17,'/contact'],[20,'s3g']]],['p_t137545',4,[],[[30,'Web Policies'],[15,'t137545'],[40,'l3'],[17,'/privacypolicy']]],['p_t137489',-1,[],[[30,'Directions'],[15,'t137489'],[40,'l2'],[17,'/directions']]],['p_t137464',-1,[],[[30,'Campus Map'],[15,'t137464'],[40,'l2'],[17,'/campusmap']]],['p_t137491',-1,[],[[30,'Diversity'],[15,'t137491'],[40,'l2'],[17,'/diversity']]],['p_t137492',-1,[],[[30,'Employment'],[15,'t137492'],[40,'l2'],[17,'/employment']]],['p_t137616',-1,[11,13,14,15,16,17,18,20,21,22],[[30,'Episcopal Identity'],[15,'t137616'],[40,'l2sm'],[17,'/about/spirituallife'],[20,'s3g']]],['p_t137461',10,[12],[[30,'Overview'],[15,'t137461'],[40,'l3sm'],[17,'/episcopal'],[20,'s4g']]],['p_t147098',11,[],[[30,'What It Means to be an Episcopal School'],[15,'t147098'],[40,'l4'],[17,'/podium/default.aspx?t=147098']]],['p_t183142',10,[],[[30,'Weddings'],[15,'t183142'],[40,'l3'],[17,'/weddings']]],['p_t183143',10,[],[[30,'Baptisms'],[15,'t183143'],[40,'l3'],[17,'/baptisms']]],['p_t141935',10,[],[[30,'Memorial Garden '],[15,'t141935'],[40,'l3'],[17,'/memorialgarden']]],['p_t137462',10,[],[[30,'Spiritual Life'],[15,'t137462'],[40,'l3'],[17,'/spirituallife']]],['p_t137584',10,[],[[30,'Religious Diversity'],[15,'t137584'],[40,'l3'],[17,'/about/spirituallife/religiousdiversity']]],['p_t137585',10,[19],[[30,'The Hines Story'],[15,'t137585'],[40,'l3sm'],[17,'/about/spirituallife/hinesstory'],[20,'s4g']]],['p_t147105',18,[],[[30,'The Transformative Legacy of John Hines'],[15,'t147105'],[40,'l4'],[17,'/podium/default.aspx?t=147105']]],['p_t137617',10,[],[[30,'Theology Courses'],[15,'t137617'],[40,'l3'],[17,'/theology']]],['p_t137618',10,[],[[30,'Chaplains'],[15,'t137618'],[40,'l3'],[17,'/podium/default.aspx?t=137618']]],['p_t138244',10,[23,24],[[30,'The Chapel: Our Physical and Spiritual Center'],[15,'t138244'],[40,'l3sm'],[17,'/chapel'],[20,'s4g']]],['p_t138284',22,[],[[30,'Religious Diversity'],[15,'t138284'],[40,'l4'],[17,'/religiousDiversity']]],['p_t138263',22,[],[[30,'The Hines Story'],[15,'t138263'],[40,'l4'],[17,'/hinesStory']]],['p_t142801',-1,[],[[30,'Faculty & Staff Directory'],[15,'t142801'],[40,'l2'],[17,'/facultydirectory']]],['p_t137592',-1,[27,28,30,37,43,49,50,51,52,53],[[30,'Giving'],[15,'t137592'],[40,'l2ssm'],[17,'/about/giving'],[20,'s3g']]],['p_t137551',26,[],[[30,'Why Give'],[15,'t137551'],[40,'l3s'],[17,'/giving']]],['p_t137512',26,[29],[[30,'Annual Giving'],[15,'t137512'],[40,'l3sm'],[17,'/annualgiving'],[20,'s4g']]],['p_t179877',28,[],[[30,'Overview'],[15,'t179877'],[40,'l4'],[17,'/about/endowment/annualgiving/overview']]],['p_t137560',26,[31,32,33,34,35,36],[[30,'Frame the Future Campaign'],[15,'t137560'],[40,'l3sm'],[17,'/framethefuture'],[20,'s4g']]],['p_t144291',30,[],[[30,'Dining Hall / Student Center'],[15,'t144291'],[40,'l4'],[17,'/dininghall']]],['p_t166351',30,[],[[30,'Fitness and Wellness Addition'],[15,'t166351'],[40,'l4'],[17,'/podium/default.aspx?t=166351']]],['p_t182279',30,[],[[30,'Wycliff-Freeman House'],[15,'t182279'],[40,'l4'],[17,'/wyclifffreeman']]],['p_t182280',30,[],[[30,'Dell Pedestrian Green'],[15,'t182280'],[40,'l4'],[17,'/dellpedestriangreen']]],['p_t182281',30,[],[[30,'Roger Bowen Arts Studio'],[15,'t182281'],[40,'l4'],[17,'/rogerbowenartsstudio']]],['p_t182282',30,[],[[30,'Emerging Scholars'],[15,'t182282'],[40,'l4'],[17,'/emergingscholars']]],['p_t137550',26,[38,39,40,41,42],[[30,'Endowment'],[15,'t137550'],[40,'l3sm'],[17,'/endowment'],[20,'s4g']]],['p_t137552',37,[],[[30,'Endowment FAQs'],[15,'t137552'],[40,'l4'],[17,'/about/endowment/overview/endowmentfaqs']]],['p_t137553',37,[],[[30,'Endowment Policies'],[15,'t137553'],[40,'l4'],[17,'/about/endowment/overview/endowmentpolicies']]],['p_t137555',37,[],[[30,'Named Endowments'],[15,'t137555'],[40,'l4'],[17,'/namedendowments']]],['p_t137566',37,[],[[30,'Give to Named Endowments'],[15,'t137566'],[40,'l4'],[17,'/about/endowment/givenamedendowments']]],['p_t137554',37,[],[[30,'Endowment Naming Opportunities'],[15,'t137554'],[40,'l4'],[17,'/about/endowment/overview/endowmentnamingopportunities']]],['p_t137567',26,[44,45,46,47,48],[[30,'Planned Giving'],[15,'t137567'],[40,'l3sm'],[17,'/plannedgiving'],[20,'s4g']]],['p_t137568',43,[],[[30,'Overview'],[15,'t137568'],[40,'l4'],[17,'/about/endowment/plannedgiving/overview']]],['p_t137570',43,[],[[30,'Estate Tax Quiz'],[15,'t137570'],[40,'l4'],[17,'/about/endowment/plannedgiving/estatetaxquiz']]],['p_t137569',43,[],[[30,'Legacy Council'],[15,'t137569'],[40,'l4'],[17,'/legacycouncil']]],['p_t137571',43,[],[[30,'Bequest Language'],[15,'t137571'],[40,'l4'],[17,'/about/endowment/plannedgiving/bequestlanguage']]],['p_t168709',43,[],[[30,'Stelter Planned Giving Pages'],[15,'t168709'],[40,'l4'],[17,'/plannedgivingpages']]],['p_t137573',26,[],[[30,'Gift Acceptance Policies (PDF)'],[15,'t137573'],[40,'l3'],[28,'_blank'],[17,'/ftpimages/580/misc/misc_83264.pdf']]],['p_t137574',26,[],[[30,'Meet the Team'],[15,'t137574'],[40,'l3'],[17,'/about/endowment/plannedgiving/meettheteam']]],['p_t137497',26,[],[[30,'Make a Gift'],[15,'t137497'],[40,'l3'],[17,'/give']]],['p_t137556',26,[],[[30,'Stock Gifts'],[15,'t137556'],[40,'l3'],[17,'/stockgifts']]],['p_t166612',26,[],[[30,'Give Now'],[15,'t166612'],[40,'l3'],[17,'/givenow']]],['p_t137496',-1,[55],[[30,'History & Traditions'],[15,'t137496'],[40,'l2sm'],[17,'/history'],[20,'s3g']]],['p_t147109',54,[],[[30,'Brewster on Brewster: Honoring His Father\'s Memory'],[15,'t147109'],[40,'l3'],[17,'/podium/default.aspx?t=147109']]],['p_t137498',-1,[],[[30,'Mission, Vision & Values'],[15,'t137498'],[40,'l2'],[17,'/mission']]],['p_t138266',-1,[],[[30,'Stewardship of the Land'],[15,'t138266'],[40,'l2'],[17,'/landstewardship']]],['p_t137504',-1,[59,60,61,62,63],[[30,'Trustees'],[15,'t137504'],[40,'l2sm'],[17,'/about/trustees'],[20,'s3g']]],['p_t137619',58,[],[[30,'Overview'],[15,'t137619'],[40,'l3'],[17,'/trustees']]],['p_t137506',58,[],[[30,'Responsibility'],[15,'t137506'],[40,'l3'],[17,'/trustees/responsibility']]],['p_t137508',58,[],[[30,'Board Committees'],[15,'t137508'],[40,'l3'],[17,'/trustees/boardcommittees']]],['p_t137510',58,[],[[30,'Nomination Process'],[15,'t137510'],[40,'l3'],[17,'/trustees/nominationprocess']]],['p_t162050',58,[],[[30,'Trustee Portal'],[15,'t162050'],[40,'l3'],[28,'_blank'],[17,'/trusteeportal']]],['p_t147090',-1,[],[[30,'Strategic Goals'],[15,'t147090'],[40,'l2'],[17,'/podium/default.aspx?t=147090']]]];
+window.ComponentArt_ItemLooks_L_c5i0_sn=[[0,'l1',1,'s1',2,'s1o',9,'s1s',27,0,28,0],[0,'l1sm',1,'s1sm',2,'s1osm',9,'s1ssm',27,0,28,0],[0,'l1s',1,'s1s',2,'s1s',9,'s1s',27,0,28,0],[0,'l1ssm',1,'s1ssm',2,'s1ssm',9,'s1ssm',27,0,28,0],[0,'l2',1,'s2',2,'s2o',9,'s2s',27,0,28,0],[0,'l2sm',1,'s2sm',2,'s2osm',9,'s2ssm',27,0,28,0],[0,'l2s',1,'s2s',2,'s2s',9,'s2s',27,0,28,0],[0,'l2ssm',1,'s2ssm',2,'s2ssm',9,'s2ssm',27,0,28,0],[0,'l3',1,'s3',2,'s3o',9,'s3s',27,0,28,0],[0,'l3sm',1,'s3sm',2,'s3osm',9,'s3ssm',27,0,28,0],[0,'l3s',1,'s3s',2,'s3s',9,'s3s',27,0,28,0],[0,'l3ssm',1,'s3ssm',2,'s3ssm',9,'s3ssm',27,0,28,0],[0,'l4',1,'s4',2,'s4o',9,'s4s',27,0,28,0],[0,'l4sm',1,'s4sm',2,'s4osm',9,'s4ssm',27,0,28,0],[0,'l4s',1,'s4s',2,'s4s',9,'s4s',27,0,28,0],[0,'l4ssm',1,'s4ssm',2,'s4ssm',9,'s4ssm',27,0,28,0]];
+window.ComponentArt_ScrollLooks_L_c5i0_sn=[[],[]];
+
+//]]>
+</script>
+
+<div id="L_c5i0_sn"></div><input id="L_c5i0_sn_ContextData" name="L_c5i0_sn_ContextData" TYPE="hidden" /><script TYPE="text/javascript">
+//<![CDATA[
+/*** ComponentArt_Menu_Startup_L_c5i0_sn 2008_1_1085_2 ***/
+window.ComponentArt_Init_L_c5i0_sn = function() {
+if (!(window.cart_menu_kernel_loaded && window.cart_menu_support_loaded))
+{
+	setTimeout('ComponentArt_Init_L_c5i0_sn()', 500);
+	return;
+}
+if (!(window.cart_menu_documentmousedownhandled))
+{
+ComponentArt_AddEventHandler(document,'mousedown',new Function('event','ComponentArt_Menu_DocumentMouseDown(event)'));
+window.cart_menu_documentmousedownhandled = true;
+}
+window.L_c5i0_sn = new ComponentArt_Menu('L_c5i0_sn',ComponentArt_Storage_L_c5i0_sn,ComponentArt_ItemLooks_L_c5i0_sn,ComponentArt_ScrollLooks_L_c5i0_sn,null,false);
+L_c5i0_sn.Postback = function() { __doPostBack('L$c5i0$sn','') };
+if(!window['sn']) { window['sn'] = window.L_c5i0_sn; L_c5i0_sn.GlobalAlias = 'sn'; }
+L_c5i0_sn.PropertyStorageArray = [
+['ApplicationPath','/podium'],['AutoPostBackOnSelect',false],['AutoPostBackOnCheckChanged',false],['BaseUrl',''],['CascadeCollapse',true],['ClientEvents',null],['ClientSideOnContextMenuHide',null],['ClientSideOnContextMenuShow',null],['ClientSideOnItemMouseOut',null],['ClientSideOnItemMouseOver',null],['ClientSideOnItemSelect',null],['ClientTemplates',[]],['CollapseDelay',400],['CollapseDuration',0],['CollapseSlide',0],['CollapseTransition',0],['CollapseTransitionCustomFilter',null],['ContextControlId',null],['ContextData',null],['ContextMenu',0],['ControlId','L$c5i0$sn'],['CssClass','s2g'],['DefaultChildSelectedItemLookId',''],['DefaultDisabledItemLookId',''],['DefaultGroupCssClass',null],['DefaultGroupExpandDirection',0],['DefaultGroupExpandOffsetX',-1],['DefaultGroupExpandOffsetY',0],['DefaultGroupHeight',null],['DefaultGroupItemSpacing',null],['DefaultGroupOrientation',0],['DefaultGroupWidth',null],['DefaultItemLookId',''],['DefaultItemTextAlign',0],['DefaultItemTextWrap',true],['DefaultSelectedItemLookId',''],['DefaultTarget',''],['ExpandDelay',0],['ExpandDisabledItems',true],['ExpandDuration',0],['ExpandOnClick',false],['ExpandSlide',0],['ExpandTransition',0],['ExpandTransitionCustomFilter',null],['ForceHighlightedItemID',''],['Height',null],['HideSelectElements',cart_browser_hideselects && true],['HighlightExpandedPath',true],['ImagesBaseUrl',''],['MultiPageId',null],['Orientation',0],['OverlayWindowedElements',cart_browser_overlays && true],['PlaceHolderId','L_c5i0_sn'],['ScrollingEnabled',false],['SelectedItemPostBackID',null],['ShadowColor','#8D8F95'],['ShadowEnabled',false],['ShadowOffset',2],['TopGroupExpandDirection',0],['TopGroupExpandOffsetX',-1],['TopGroupExpandOffsetY',0],['TopGroupItemSpacing',null],['WebService',''],['WebServiceCustomParameter',''],['WebServiceMethod',''],['TopGroupExpandOffsetY',0],['Width',null]
+];
+L_c5i0_sn.LoadProperties();
+ComponentArt_Menu_MarkSelectedItem(L_c5i0_sn);
+ComponentArt_Menu_MarkForceHighlightedItem(L_c5i0_sn);
+L_c5i0_sn.Initialize();
+ComponentArt_Menu_RenderMenu(L_c5i0_sn);
+window.L_c5i0_sn_loaded = true;
+}
+ComponentArt_Init_L_c5i0_sn();
+//]]>
+</script>
+<div CLASS="sftr"><!-- --></div></span>
+<ul CLASS="pageTools">
+	<li CLASS="ptShare"><script TYPE="text/javascript">var addthis_pub="whipplehill";</script><a HREF="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"  >Share</a><script TYPE="text/javascript" SRC="http://s7.addthis.com/js/200/addthis_widget.js"></script></li>
+	<li CLASS="ptEmail"><a HREF="mailto:?subject=From the St. Stephen's Episcopal School website&body=I saw this on the St. Stephen's Episcopal School website and thought it may interest you: http://www.sstx.org/giving"  >E-mail</a></li>
+	<li CLASS="ptPrint"><a HREF="javascript:__pdSetVal('gm_p');"  >Print</a></li>
+</ul>
+<img SRC="//cdn.media78.whipplehill.net/ftpimages/580/podium/style578/images/seal.png" ALT="St. Stephen's Episcopal School - 1950"/>
+
+<div class="givenow">
+<ul class="smbuttons_19745">
+<li>
+<a TARGET="_blank" HREF="https://www.sstx.org/podium/default.aspx?t=166612&rc=1">
+<img BORDER="0" SRC="http://cdn.media78.whipplehill.net/ftpimages/580/link/large_link240156_20527.jpg">
+</a>
+</li>
+</div></td>
+<td>    <div id="stl-page">
+            <div CLASS="stl-header">
+                <div CLASS="stl-quicklinks">
+                    
+<nav ROLE="navigation" CLASS="navbar navbar-default hidden-print hidden-lg nav-small stl-nav-sm visible-sm visible-xs">
+    <div CLASS="logo" STYLE="text-align: center;">
+        <a HREF="Ingeniux.Runtime.CMSLinkElement" STYLE="margin: 0 auto;">
+            <img   src="/DssPreview/assets/images/S/st-stephans-episcopal-school/sstx.PNG?_previewAsset_=true" ALT=""   />
+
+
+        </a>
+    </div>
+    <div CLASS="navbar-header hidden-sm">
+        <button data-target="#bs-example-navbar-collapse-1" data-toggle="collapse" CLASS="navbar-toggle" TYPE="button">
+		    <span CLASS="sr-only">Toggle navigation</span>
+		    <span CLASS="icon-bar"></span>
+		    <span CLASS="icon-bar"></span>
+		    <span CLASS="icon-bar"></span>
+	    </button>
+	    <a HREF="#" CLASS="navbar-brand">Quick Links</a>
+    </div>
+    <div id="bs-example-navbar-collapse-1" CLASS="collapse navbar-collapse">
+        <ul CLASS="nav navbar-nav">
+                <li>
+                    <a HREF="http://www.sstx.org/about?rc=0" TARGET="">About</a>
+                </li>
+                <li>
+                    <a HREF="http://www.sstx.org/admission?rc=0" TARGET="">Admission</a>
+                </li>
+                <li>
+                    <a HREF="http://www.sstx.org/oncampus?rc=0" TARGET="">Life On Campus</a>
+                </li>
+                <li>
+                    <a HREF="https://www.sstx.org/mysses" TARGET="">MySSES</a>
+                </li>
+        </ul>
+    </div>
+</nav>
+                </div>
+                
+<nav CLASS="navbar navbar-default visible-md visible-lg hidden-print nav-big stl-nav-lg" ROLE="navigation">
+    <div CLASS="bs-header hidden-print">
+
+    </div>
+</nav>
+            </div>
+
+        <!-- #header -->
+        <div id="stl-cms">
+            <div CLASS="stl-container " >
+                    <div CLASS="stl-colwrap">
+                        
+    <a id="skip"></a>
+    <div CLASS="stl-col stl-w-08 stl-center sub-middle-section">
+
+
+
+    <div CLASS="stl-mission-section">
+		<h1 CLASS="stl-page-title" >Invest in Our Future to Amplify Your Impact</h1>
+
+
+        <div CLASS="stl-row">
+            
+                <div CLASS="stl-whats-new">
+                        <div CLASS="pull-right multipurpose hotnews hidden-print">
+        <div id="stl-whats-new">
+            <h3 CLASS="stl-whats-new-title">
+                
+                <span>What&#39;s New?</span>
+            </h3>
+            <div CLASS="clear"></div>
+            <ul>
+            <li><a TARGET="" HREF="x88632.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Don&#39;t Miss These Year-End Tax Deadlines</a></li>
+            <li><a TARGET="" HREF="x86231.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">The Latest on the IRA Charitable Rollover</a></li>
+
+            </ul>
+        </div>
+    </div>
+
+                </div>
+            <div CLASS="stl_clientMissionBody">
+<p>If you would like to extend your support of St. Stephan's Episcopal School to make a lasting impact, there are several gift arrangements to choose from.</p>
+<p>Whether you would like to put your donation to work today or benefit us after your lifetime, you can find a charitable plan that lets you provide for your family and support St. Stephen's.</p>
+            </div>
+
+
+            <div CLASS="clear"></div>
+        </div>
+    </div>
+    <div CLASS="stl-journey-paths journey-paths adventure clearfix">
+        
+            <h3 CLASS="hidden-xs visible-md visible-lg" >
+                Begin My Giving Journey
+            </h3>
+<p>I want to plan a gift based on my...</p>
+            <div CLASS="journey-main stl-colwrap" STYLE="background-image: url(&#39;/DssPreview/assets/images/S/st-stephans-episcopal-school/beginmyjourney_image.jpg?_previewAsset_=true&#39;);background-repeat: no-repeat;">
+    <div CLASS="stl-col stl-w-04">
+        <div CLASS="stl-info-slider">
+                <div CLASS="stl-slider-wrap"  style="background-image: url('/DssPreview/assets/images/?_previewAsset_=true');">
+                        <script>
+        function setSessionValue(key, value) {
+            $.post('/DssPreview/Action/setSession.aspx?key=' + key + '&value=' + value);
+        }
+    </script>
+    <ul>
+            <li><a onclick="setSessionValue('Giving Amount', 'Under+%2425%2c000');" CLASS="stl-popup" HREF="#157" data-toggle="modal" data-target="#157">Under $25,000</a></li>
+            <li><a onclick="setSessionValue('Giving Amount', '%2425%2c000+to+%2499%2c999');" CLASS="stl-popup" HREF="#155" data-toggle="modal" data-target="#155">$25,000 to $99,999</a></li>
+            <li><a onclick="setSessionValue('Giving Amount', '%24100%2c000+to+%24999%2c999');" CLASS="stl-popup" HREF="#154" data-toggle="modal" data-target="#154">$100,000 to $999,999</a></li>
+            <li><a onclick="setSessionValue('Giving Amount', '%241+million+or+more');" CLASS="stl-popup" HREF="#153" data-toggle="modal" data-target="#153">$1 million or more</a></li>
+    </ul>            
+
+
+                </div>
+                <span CLASS="stl-button stl-info" HREF="#">Giving Amount</span>
+
+        </div>
+    </div>
+
+    <div id="157" CLASS="stl-white-popup mfp-hide">
+        <h2>Under $25,000</h2>
+            <p CLASS="journey">The most popular options for a gift in this range:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under $25,000|Outright gift of cash'; s.tl(this,'o','Site Tool');">Outright gift of cash</a></li>
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under $25,000|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under $25,000|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under $25,000|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under $25,000|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+                <li><a HREF="x48319.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under $25,000|Donor advised fund'; s.tl(this,'o','Site Tool');">Donor advised fund</a></li>
+        </ul>
+    </div>   
+    <div id="155" CLASS="stl-white-popup mfp-hide">
+        <h2>$25,000 to $99,999</h2>
+            <p CLASS="journey">The most popular options for a gift in this range:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$25,000 to $99,999|Outright gift of cash'; s.tl(this,'o','Site Tool');">Outright gift of cash</a></li>
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$25,000 to $99,999|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$25,000 to $99,999|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$25,000 to $99,999|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$25,000 to $99,999|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+                <li><a HREF="x48319.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$25,000 to $99,999|Donor advised fund'; s.tl(this,'o','Site Tool');">Donor advised fund</a></li>
+        </ul>
+    </div>   
+    <div id="154" CLASS="stl-white-popup mfp-hide">
+        <h2>$100,000 to $999,999</h2>
+            <p CLASS="journey">The most popular options for a gift in this range:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48324.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$100,000 to $999,999|Outright gift of life insurance'; s.tl(this,'o','Site Tool');">Outright gift of life insurance</a></li>
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$100,000 to $999,999|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$100,000 to $999,999|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48315.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$100,000 to $999,999|Charitable lead trust'; s.tl(this,'o','Site Tool');">Charitable lead trust</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$100,000 to $999,999|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$100,000 to $999,999|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$100,000 to $999,999|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+        </ul>
+    </div>   
+    <div id="153" CLASS="stl-white-popup mfp-hide">
+        <h2>$1 million or more</h2>
+            <p CLASS="journey">The most popular options for a gift in this range:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$1 million or more|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48315.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$1 million or more|Charitable lead trust'; s.tl(this,'o','Site Tool');">Charitable lead trust</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$1 million or more|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$1 million or more|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='$1 million or more|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+        </ul>
+    </div>   
+
+    <div CLASS="stl-col stl-w-04">
+        <div CLASS="stl-info-slider">
+                <div CLASS="stl-slider-wrap"  style="background-image: url('/DssPreview/assets/images/?_previewAsset_=true');">
+                        <script>
+        function setSessionValue(key, value) {
+            $.post('/DssPreview/Action/setSession.aspx?key=' + key + '&value=' + value);
+        }
+    </script>
+    <ul>
+            <li><a onclick="setSessionValue('Age', 'Under+40');" CLASS="stl-popup" HREF="#137" data-toggle="modal" data-target="#137">Under 40</a></li>
+            <li><a onclick="setSessionValue('Age', '40-54');" CLASS="stl-popup" HREF="#134" data-toggle="modal" data-target="#134">40-54</a></li>
+            <li><a onclick="setSessionValue('Age', '55-69');" CLASS="stl-popup" HREF="#135" data-toggle="modal" data-target="#135">55-69</a></li>
+            <li><a onclick="setSessionValue('Age', '70%2b');" CLASS="stl-popup" HREF="#136" data-toggle="modal" data-target="#136">70+</a></li>
+    </ul>            
+
+
+                </div>
+                <span CLASS="stl-button stl-info" HREF="#">Age</span>
+
+        </div>
+    </div>
+
+    <div id="137" CLASS="stl-white-popup mfp-hide">
+        <h2>Under 40</h2>
+            <p CLASS="journey">The best gift options for you:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under 40|Outright gift of cash'; s.tl(this,'o','Site Tool');">Outright gift of cash</a></li>
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under 40|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under 40|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under 40|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+                <li><a HREF="x48319.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Under 40|Donor advised fund'; s.tl(this,'o','Site Tool');">Donor advised fund</a></li>
+        </ul>
+    </div>   
+    <div id="134" CLASS="stl-white-popup mfp-hide">
+        <h2>40-54</h2>
+            <p CLASS="journey">The best gift options for you:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='40-54|Outright gift of cash'; s.tl(this,'o','Site Tool');">Outright gift of cash</a></li>
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='40-54|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='40-54|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='40-54|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+                <li><a HREF="x48319.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='40-54|Donor advised fund'; s.tl(this,'o','Site Tool');">Donor advised fund</a></li>
+        </ul>
+    </div>   
+    <div id="135" CLASS="stl-white-popup mfp-hide">
+        <h2>55-69</h2>
+            <p CLASS="journey">The best gift options for you:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='55-69|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='55-69|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48315.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='55-69|Charitable lead trust'; s.tl(this,'o','Site Tool');">Charitable lead trust</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='55-69|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='55-69|Outright gift of real estate'; s.tl(this,'o','Site Tool');">Outright gift of real estate</a></li>
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='55-69|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='55-69|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+        </ul>
+    </div>   
+    <div id="136" CLASS="stl-white-popup mfp-hide">
+        <h2>70+</h2>
+            <p CLASS="journey">The best gift options for you:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48324.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='70+|Outright gift of life insurance'; s.tl(this,'o','Site Tool');">Outright gift of life insurance</a></li>
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='70+|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='70+|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48315.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='70+|Charitable lead trust'; s.tl(this,'o','Site Tool');">Charitable lead trust</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='70+|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='70+|Outright gift of real estate'; s.tl(this,'o','Site Tool');">Outright gift of real estate</a></li>
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='70+|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='70+|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+        </ul>
+    </div>   
+
+    <div CLASS="stl-col stl-w-04">
+        <div CLASS="stl-info-slider">
+                <div CLASS="stl-slider-wrap"  style="background-image: url('/DssPreview/assets/images/?_previewAsset_=true');">
+                        <script>
+        function setSessionValue(key, value) {
+            $.post('/DssPreview/Action/setSession.aspx?key=' + key + '&value=' + value);
+        }
+    </script>
+    <ul>
+            <li><a onclick="setSessionValue('Assets', 'Cash');" CLASS="stl-popup" HREF="#138" data-toggle="modal" data-target="#138">Cash</a></li>
+            <li><a onclick="setSessionValue('Assets', 'Appreciated+Securities');" CLASS="stl-popup" HREF="#143" data-toggle="modal" data-target="#143">Appreciated Securities</a></li>
+            <li><a onclick="setSessionValue('Assets', 'Retirement+Plan+Assets');" CLASS="stl-popup" HREF="#142" data-toggle="modal" data-target="#142">Retirement Plan Assets</a></li>
+            <li><a onclick="setSessionValue('Assets', 'Life+Insurance');" CLASS="stl-popup" HREF="#139" data-toggle="modal" data-target="#139">Life Insurance</a></li>
+            <li><a onclick="setSessionValue('Assets', 'Real+Estate');" CLASS="stl-popup" HREF="#141" data-toggle="modal" data-target="#141">Real Estate</a></li>
+            <li><a onclick="setSessionValue('Assets', 'Tangible+Personal+Property');" CLASS="stl-popup" HREF="#140" data-toggle="modal" data-target="#140">Tangible Personal Property</a></li>
+    </ul>            
+
+
+                </div>
+                <span CLASS="stl-button stl-info" HREF="#">Assets</span>
+
+        </div>
+    </div>
+
+    <div id="138" CLASS="stl-white-popup mfp-hide">
+        <h2>Cash</h2>
+            <p CLASS="journey">Most popular ways to give this asset:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Cash|Outright gift of cash'; s.tl(this,'o','Site Tool');">Outright gift of cash</a></li>
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Cash|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48315.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Cash|Charitable lead trust'; s.tl(this,'o','Site Tool');">Charitable lead trust</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Cash|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Cash|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+                <li><a HREF="x48319.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Cash|Donor advised fund'; s.tl(this,'o','Site Tool');">Donor advised fund</a></li>
+        </ul>
+    </div>   
+    <div id="143" CLASS="stl-white-popup mfp-hide">
+        <h2>Appreciated Securities</h2>
+            <p CLASS="journey">Most popular ways to give this asset:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Appreciated Securities|Outright gift of appreciated securities'; s.tl(this,'o','Site Tool');">Outright gift of appreciated securities</a></li>
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Appreciated Securities|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48315.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Appreciated Securities|Charitable lead trust'; s.tl(this,'o','Site Tool');">Charitable lead trust</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Appreciated Securities|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Appreciated Securities|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+                <li><a HREF="x48319.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Appreciated Securities|Donor advised fund'; s.tl(this,'o','Site Tool');">Donor advised fund</a></li>
+        </ul>
+    </div>   
+    <div id="142" CLASS="stl-white-popup mfp-hide">
+        <h2>Retirement Plan Assets</h2>
+            <p CLASS="journey">Most popular ways to give this asset:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Retirement Plan Assets|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Retirement Plan Assets|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+                <li><a HREF="x48319.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Retirement Plan Assets|Donor advised fund'; s.tl(this,'o','Site Tool');">Donor advised fund</a></li>
+        </ul>
+    </div>   
+    <div id="139" CLASS="stl-white-popup mfp-hide">
+        <h2>Life Insurance</h2>
+            <p CLASS="journey">Most popular ways to give this asset:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48324.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Life Insurance|Outright gift of life insurance'; s.tl(this,'o','Site Tool');">Outright gift of life insurance</a></li>
+                <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Life Insurance|Beneficiary designations'; s.tl(this,'o','Site Tool');">Beneficiary designations</a></li>
+        </ul>
+    </div>   
+    <div id="141" CLASS="stl-white-popup mfp-hide">
+        <h2>Real Estate</h2>
+            <p CLASS="journey">Most popular ways to give this asset:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Real Estate|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48315.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Real Estate|Charitable lead trust'; s.tl(this,'o','Site Tool');">Charitable lead trust</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Real Estate|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Real Estate|Outright gift of real estate'; s.tl(this,'o','Site Tool');">Outright gift of real estate</a></li>
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Real Estate|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+        </ul>
+    </div>   
+    <div id="140" CLASS="stl-white-popup mfp-hide">
+        <h2>Tangible Personal Property</h2>
+            <p CLASS="journey">Most popular ways to give this asset:</p>
+        <ul CLASS="journey">
+                <li><a HREF="x48325.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Tangible Personal Property|Outright gift or bargain sale'; s.tl(this,'o','Site Tool');">Outright gift or bargain sale</a></li>
+                <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Tangible Personal Property|Charitable gift annuity'; s.tl(this,'o','Site Tool');">Charitable gift annuity</a></li>
+                <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Tangible Personal Property|Gift in will or living trust'; s.tl(this,'o','Site Tool');">Gift in will or living trust</a></li>
+                <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" onclick="s.linkTrackVars='events,eVar41'; s.linkTrackEvents='event11'; s.events='event11'; s.eVar41='Tangible Personal Property|Charitable remainder trust'; s.tl(this,'o','Site Tool');">Charitable remainder trust</a></li>
+        </ul>
+    </div>   
+
+
+            </div>
+
+        <div CLASS="clear"></div>
+    </div>
+    <div CLASS="stl-not-sure not-sure">
+<div CLASS="notSure stl-clearfix">
+<div CLASS="not-sure-inside">
+<h3>Not sure how to get started?</h3>
+<p id="not-sure-details"><a CLASS="fancybox-getting-started" HREF="x48200.xml">Answer a few simple questions</a>&nbsp;and we'll point you down the right path.</p>
+</div>
+</div>
+<div CLASS="modal hide fade" id="getting-started-modal">
+<div CLASS="modal-header"><button CLASS="close" TYPE="button" data-dismiss="modal">&times;</button>
+<h3 id="myModalLabel">Modal header</h3>
+</div>
+<div CLASS="modal-body">&nbsp;</div>
+<div CLASS="modal-footer"><button CLASS="btn" data-dismiss="modal">Close</button></div>
+</div>
+    </div>
+
+
+            <div CLASS="stl-copyright">
+<p>The information on this website is not intended as legal or tax advice. For such advice, please consult an attorney or tax advisor. Figures cited in examples are for hypothetical purposes only and are subject to change. References to estate and income taxes include federal taxes only. State income/estate taxes or state law may impact your results.</p>
+            </div>
+
+    </div>
+    <div CLASS="stl-col stl-w-04 stl-right">
+    <div  class="navigation section-nav " STYLE="">
+	    <ul id="rightnav" CLASS="rtnav stl-nav">
+                    <li CLASS="sectionhome currentPage">
+					    <div>
+                            <a CLASS="stlHomelink" TARGET="" HREF="x48185.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Planned Giving</a>
+                        </div>
+				    </li>
+                            <li CLASS="onTrail currentPage">
+                                <a>Popular Ways to Give</a>
+                                <ul>
+                                        <li><a HREF="x48309.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Wills and Living Trusts</a></li>
+                                        <li><a HREF="x48310.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Beneficiary Designations</a></li>
+                                </ul>
+                            </li>
+                            <li CLASS="onTrail currentPage">
+                                <a>Gifts That Provide Income</a>
+                                <ul>
+                                        <li><a HREF="x48312.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Charitable Gift Annuities</a></li>
+                                        <li><a HREF="x48313.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Charitable Remainder Trusts</a></li>
+                                </ul>
+                            </li>
+                            <li CLASS="onTrail currentPage">
+                                <a>More Ways to Give</a>
+                                <ul>
+                                        <li><a HREF="x48315.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Charitable Lead Trusts</a></li>
+                                        <li><a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Real Estate</a></li>
+                                        <li><a HREF="x48317.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Memorials and Tribute Gifts</a></li>
+                                        <li><a HREF="x48318.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Endowed Gifts</a></li>
+                                        <li><a HREF="x48319.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Donor Advised Funds</a></li>
+                                </ul>
+                            </li>
+                            <li STYLE="display:none;" CLASS="navGroupDivider"></li>
+                    <li>
+                        <a TARGET="" HREF="x48328.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">For Professional Advisors</a>
+                    </li>
+                    <li>
+                        <a TARGET="" HREF="x48320.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=">Contact Us</a>
+                    </li>
+                    <li>
+                        <a TARGET="" HREF="https://www.sstx.org/podium/default.aspx?t=166612&amp;rc=1">Give Now</a>
+                    </li>
+        </ul>
+    </div>
+    <div CLASS="vertical-nav-divider hidden-sm"></div>
+
+
+
+    </div>
+
+
+                    </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- #main -->
+    <div CLASS="stl-footer">
+        
+<div CLASS="bs-footer hidden-print visible-md visible-lg">
+
+</div>
+
+    </div>
+</td>
+</tr></table></td><td id="lOutTblRCell" CLASS="sitercol" VALIGN="top">&nbsp;</td></tr></table><div id="footer">
+	<div id="footerCenter">
+		<address id="address">St. Stephen's Episcopal School &nbsp;<span CLASS="larger">&middot;</span>&nbsp; 6500 St. Stephen's Drive &nbsp;<span CLASS="larger">&middot;</span>&nbsp; Austin, Texas 78746 &nbsp;<span CLASS="larger">&middot;</span>&nbsp; Phone 512.327.1213 &nbsp;<span CLASS="larger">&middot;</span>&nbsp;&nbsp;&nbsp;</address>
+		<a CLASS="footerLink" HREF="//www.sstx.org/podium/default.aspx?t=136765">CONTACT US</a>
+		<a CLASS="footerLink" HREF="//www.sstx.org/podium/default.aspx?t=137545">PRIVACY POLICY</a>
+		<ul id="socialMedia"><li><a HREF="http://www.facebook.com/sstx.org?ref=ts" TARGET="_blank"><img SRC="http://cdn.media78.whipplehill.net/ftpimages/580/link/large_link216492_16361.png" ALT="Facebook" title="Facebook" HEIGHT="33" WIDTH="33"></a></li><li><a HREF="http://twitter.com/#!/ststephenschool" TARGET="_blank"><img SRC="http://cdn.media78.whipplehill.net/ftpimages/580/link/large_link216493_16362.png" ALT="Twitter" title="Twitter" HEIGHT="33" WIDTH="33"></a></li><li><a HREF="http://www.linkedin.com/groups?gid=129700&amp;trk=myg_ugrp_ovr" TARGET="_blank"><img SRC="http://cdn.media78.whipplehill.net/ftpimages/580/link/large_link216495_16363.png" ALT="Linked In" title="Linked In" HEIGHT="33" WIDTH="33"></a></li><li><a HREF="https://www.youtube.com/user/ststephensaustin"><img SRC="http://cdn.media78.whipplehill.net/ftpimages/580/link/large_link317767_30296.png" ALT="YouTube Channel" title="YouTube Channel" HEIGHT="33" WIDTH="33"></a></li></ul>
+	</div>
+</div>
+
+<script TYPE="text/javascript" SRC="//cdn.media78.whipplehill.net/ftpimages/999/podium/libs/willow/2.5/willow.min.js"></script>
+<script TYPE="text/javascript" SRC="//cdn.media78.whipplehill.net/ftpimages/999/podium/libs/jquery-position/1.0/jquery.position.js"></script>
+<script TYPE="text/javascript" SRC="//cdn.media78.whipplehill.net/ftpimages/999/podium/libs/jquery-bulletin/2.1/jquery.bulletin.js"></script>
+<script TYPE="text/javascript" SRC="//cdn.media78.whipplehill.net/ftpimages/999/podium/libs/jquery-template/1.0.1/jquery.tmpl.min.js"></script>
+<script TYPE="text/javascript" SRC="//cdn.media78.whipplehill.net/ftpimages/999/podium/libs/jquery-menu/3.6/jquery.menu.min.js"></script>
+<script TYPE="text/javascript" SRC="//www.sstx.org/script/banner.js" ></script>
+
+<script id="linksTmpl" TYPE="text/x-jquery-tmpl">
+	<li><a href='${url}' {{if target == 'true' || target == 1 || target == true}}target="_blank"{{/if}}>{{if typeof image !== "undefined"}}<img src="${image.path}" alt="${title}" title="${title}" height="${image.height}" width="${image.width}"/>{{else}}${title}{{/if}}</a></li>
+</script>
+<script id="menuTmpl" TYPE="text/x-jquery-tmpl">
+	<li class="L1li">
+		<a id="L1_${id}" class="L1a" href="${url}">About</a>
+		<ul class="L2menu">
+			{{each L2}}
+                <li class='L2li'><a class='L2a' href='${url}'><span>${title}</span></a></li>
+            {{/each}}
+		</ul>
+	</li>
+</script>
+
+<script id="afTemplate" TYPE="text/x-jquery-tmpl">
+	<div class="annual-fund">
+		<div class="scale"></div>		
+		<div class="barContainer">
+			<div class="bar"></div>
+			<div class="afLines"></div>
+		</div>
+		<div class="annual-fund-content">
+			<ul class="af-data">
+				{{if af.goal.length > 0}}<li class="afGoal">Goal: ${$item.money(af.goal)}</li>{{/if}}
+				{{if af.current.length > 0}}<li><span>Current:</span> ${$item.money(af.current)}</li>{{/if}}
+				{{if af.asof.length > 0}}<li><span>As of Date:</span> ${af.asof}</li>{{/if}}
+				{{if $item.underGoal(af.goal, af.current) }}<li><span>Still Need:</span> ${$item.money($item.stillNeed(af.goal, af.current))}</li>{{/if}}
+				{{if af.start.length > 0}}<li><span>Start Date:</span> ${af.start}</li>{{/if}}
+				{{if af.end.length > 0}}<li><span>End Date:</span> ${af.end}</li>{{/if}}
+			</ul>
+		</div>
+	</div>
+</script>
+
+<script id="academicsTmpl" TYPE="text/x-jquery-tmpl">
+	<div class="ac-ddlb-container">
+		<div class="dept-container">
+			<div class="dept-header">EXPLORE our CURRICULUM:</div>
+			<div class="ac-ddlb-dept-container">
+				<select class="ddlb ac-ddlb-dept">
+					<option value="0,0">-department-</option>
+					<option value="0,0" disabled="disabled">---------------</option>
+					{{each department_grade}}
+						{{if $item.deptOrGrade(id) === "D"}}
+							<option value="${id}">${name}</option>
+						{{/if}}
+					{{/each}}
+				</select>
+			</div>
+		</div>
+	</div>
+	</br>
+	<div class="acGreeting"></div>
+	<div class="coursesInfo"></div>
+</script>
+
+<script id="coursesTmpl" TYPE="text/x-jquery-tmpl">
+	<h3 class="dg_title">${title}</h3>
+	<div class="dg_greeting">{{html greeting}}</div>
+	<div class="courseContainer">
+		<h4 class="coursesHeader">Courses</h4>
+		<ul class="courseList">
+		{{each courses}}
+			<li class="course">
+				<a class="courseTitle" href="#">${title}</a>
+				<div class="courseDesc">
+					<div class="courseDescContainer">
+						{{if desc.length > 0}}
+							{{html $item.cleanQuotes(desc)}}
+						{{else}}
+							There is no course description at this time.
+						{{/if}}
+					</div>
+				</div>
+			</li>
+		{{/each}}
+		</ul>
+	</div>
+</script>
+
+<script id="facultyTmpl" TYPE="text/x-jquery-tmpl">
+	{{if faculty_member.length > 0}}
+		{{each faculty_member}}
+			<div class="singleMember clearfix">
+				{{if photo.length > 60 && $item.showPhoto}}
+					<img class="facPhoto" src="${photo}" height="92" width="72"/>
+				{{/if}}
+				{{if $item.showName}}<div class="facName">${firstname} ${lastname}</div>{{/if}}
+				{{if $item.showEmail}}<div class="facEmail">${email}</div>{{/if}}
+				{{if $item.showNameMail}}<a class="facEmail cchlnk${$item.cID}" href="mailto:${email}">${firstname} ${lastname}</a>{{/if}}
+				{{if $item.showTitle}}<div class="facTitle">${job_title}</div>{{/if}}
+				{{if $item.showAppointed}}<div class="facAppoint">Appointed: ${appointed}</div>{{/if}}
+				{{if $item.showDept}}
+					<div class="facDepartments">
+						{{each departments}}
+							<div class="facDept">${department_name}</div>
+						{{/each}}
+					</div>
+				{{/if}}
+				{{if $item.showPhone}}<div class="facPhone">${phone}</div>{{/if}}
+				{{if $item.showEdu}}
+					<div class="facEducation">
+						{{each education}}
+							<div class="facEdu">${school_degree_major}</div>
+						{{/each}}
+					</div>
+				{{/if}}
+				{{if bio.length > 0 && $item.showBio}}
+					<div class="facBioBtn">
+						<table cellspacing="0" cellpadding="0" border="0">
+							<tbody>
+								<tr>
+									<td class="cchbtnl${$item.cID}"></td>
+									<td class="cchbtnm${$item.cID}">
+										<div class="facBioBtnTxt cchbtnt${$item.cID}">Open Bio</div>
+									</td>
+									<td class="cchbtnr${$item.cID}"></td>
+								</tr>
+							</tbody>
+						</table>
+					</div>
+					<div class="facBio" style="display: none">{{html bio}}</div>
+				{{/if}}
+			</div>
+		{{/each}}
+	{{/if}}
+</script>
+
+<script id="acPhotoTmpl" TYPE="text/x-jquery-tmpl">
+	<img src="${path}" height="${height}" width="${width}" {{if cap.length > 1}}alt='<div class="galcap">${cap}</div>'{{/if}}/>
+</script>
+
+<script id="acGalleryTmpl" TYPE="text/x-jquery-tmpl">
+	<div class="galtop"></div>
+	<div class="gal">
+	{{if typeof photos !== "undefined"}}
+		<div class="acGalPhotos">
+			{{each photos}}
+				{{tmpl(images) "#acPhotoTmpl"}}
+			{{/each}}
+		</div>
+		{{if $item.numImg > 1 && !$item.stacked}}
+			<div class="acGalBar clearfix">
+				<div class="acGalBack galbtnb" href="#">Back</div>
+				<div class="acGalCount galct"></div>
+				<div class="acGalNext galbtnn" href="#">Next</div>
+			</div>
+		{{/if}}
+	{{else}}
+		<div class="acGalPhotos">
+			{{tmpl(images) "#acPhotoTmpl"}}
+		</div>
+		{{if images.length > 1 && !$item.stacked}}
+			<div class="acGalBar clearfix">
+				<div class="acGalBack galbtnb" href="#">Back</div>
+				<div class="acGalCount galct"></div>
+				<div class="acGalNext galbtnn" href="#">Next</div>
+			</div>
+		{{/if}}
+		<div class="acGalCaption"></div>
+	{{/if}}
+	</div>
+	<div class="galbtm"></div>
+</script><div id="pdCSecFade" STYLE="display: none;position: absolute;top: 0%;left: 0%;background-color: #000000;-moz-opacity: 0.8;opacity:.80;filter: alpha(opacity=80);"><!-- --></div><div id="pdCSec" CLASS="maintext" STYLE="display:none;color:#000000 !important;background-color:#ffffff;border:1px solid #c1c1c1;position:absolute;left:40%;top:40%;"><div id="pdCSecHdr"></div><div id="pdCSecMsg" CLASS="msg" STYLE="padding: 5px 15px 0px 15px;"><!-- --></div><div id="pdCSecCtnt" STYLE="padding:10px 15px 15px 15px;"><!-- --></div></div><script language="javascript"  type="text/javascript">
+function pdCustLoginFunc(args) {WebForm_DoCallback('L$sto','17_' + args,GetCallbackData,null,null,true)}
+</script>
+<script language="javascript">theform.__pdVIEWSTATE.value='ADyRu9TTl+FG9iSBF3spE5xGzejUloYAIayjqL8VQ01GG1Gqy1zXl8PUEfqhFm3NWrFOXwZQs9318CWBDhcnkJjj2YE99/n3cL3fPadURzCQko3eytp+SJeGlnju70NLwxE/pJPoqD6KGAQ65fLMpl/eHqmQGDF0zbIZ76nHFoeobQEn9rB/0IOg7/tIV5BqnmR6sn7+G0K/WLtxDHCc7+y60HtT4CrWAXRZEtBCTwHo5dsoNlNuOHKxkqRbRMIwF08ywZyMb/7o3xPr80xW1xaGrs1U9xYtLNgh5wdhAH3hO5tPcdRbgDqLkqYaqx/bjLrynBehsF5NpKePBoNcxDOsO6k2t9Ulud973A+U2xuAS8ctK91D20n3s+VZOHIMz3I7eOQeCRU1M7RQmu7yzUi/5gYx11/H0fcSqU9IADvWyLVaiBbsujdfy1lyivL6IHcR41Lf7e3DJigWgU87bDjmG+22pdOYeGbYsoJTuma/MoCRmrq6IE5xWz+gi8th42eNpqEISSDkY0Nys4P1IGwB1Lb+55iwwkk/DpYNErU8B+abZ+8/VAeHYnIR9BTHr2w9GQm5DeCJMdFBz28TVQzjqB2S4H+pWnOEQOENlzLmb+97FJfa0hWM2MlrvsRx3ln0uArDL0p769ir9Jw/cNmnB9O4lU92/GagZdbXsisGS87JeKbklwt9sMsimGE5ksOl6gBQebd70G8hc2p47uVh5ZJd1RyEhr3XIeZb6eUcxgxUgwyklA6O6mJ9pNMzQZS2Nx3Q7S7hrx69sPhx/w==';</script><script language="javascript"  type="text/javascript">$(document).ready(function() {__pdPostbackFuncs();pdAjaxOnLoad();__pdCheckTransfer();});</script><script language="javascript">SetTaskStay(136673);</script><!-- START: InfoSnap Integration -->
+<script TYPE="text/javascript">
+function openInfoSnap(orgId, actionId)
+{
+	window.open('/podium/InfoSnap/AccountServices.aspx?sid=3BY/6N0UBwk=&uid=iHWLw56vmnY=&oid=' + orgId + '&aid=' + actionId, '_blank');
+}
+</script>
+<!-- END: InfoSnap Integration -->
+
+		
+
+<script TYPE="text/javascript">
+//<![CDATA[
+
+WebForm_InitCallback();//]]>
+</script>
+<script language="javascript"  type="text/javascript">
+function SetNavState(navid, VorH, initstate) {
+   var tnavid;
+   for(var i = 1; i < 5; i++) {
+       if (i == 1) {;
+           tnavid = navid;
+       } else {
+           tnavid = navid + i;
+       }
+       //alert(tnavid);
+       navObj = document.getElementById(tnavid);
+       if (navObj) {
+           //alert(navObj.className.substring(0, 4));
+           if (initstate == 's') {
+               if (navObj.className.substring(0, 4) == VorH + 'mio') {
+                   navObj.className = navObj.className.replace(VorH + 'mio',VorH + 'mis');
+               } else {
+                   navObj.className = navObj.className.replace(VorH + 'mis',VorH + 'mio');
+               }
+           } else {
+               if (navObj.className.substring(0, 4) == VorH + 'mio') {
+                   navObj.className = navObj.className.replace(VorH + 'mio',VorH + 'mi');
+               } else {
+                   navObj.className = navObj.className.replace(VorH + 'mi',VorH + 'mio');
+               }
+           }
+       }
+   }
+}
+</script></form>
+
+    <!-- #footer -->
+                <span CLASS="popup-flyover" id="cashcrt-flyover">
+	                        <span CLASS="toolH3">Cash</span>
+
+<p>You may always use cash as part of your charitable giving strategy. Oftentimes charitable remainder trusts are funded with cash in addition to stock or real estate.</p>                    
+                        <a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Cash</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="securitiescrt-flyover">
+	                        <span CLASS="toolH3">Appreciated Securities </span>
+
+<p>Highly appreciated assets that generate low current income are an ideal funding option.</p>                    
+                        <a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Appreciated Securities </a>
+
+                </span>
+                <span CLASS="popup-flyover" id="closelyheldstockcrt-flyover">
+	                        <span CLASS="toolH3">Closely Held Stock</span>
+
+<p>You may be able to convert stock that pays no dividends into an income-producing asset and receive tax benefits in return.</p>                    
+                        <a HREF="x48330.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Closely Held Stock</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="realestatecrt-flyover">
+	                        <span CLASS="toolH3">Real Estate </span>
+
+<p>When appreciated real estate is used to fund a remainder trust, no capital gains tax is due upon the sale of the property.</p>                    
+                        <a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Real Estate </a>
+
+                </span>
+                <span CLASS="popup-flyover" id="retirementcrt-flyover">
+	                        <span CLASS="toolH3">Retirement Plan Assets</span>
+
+<p>If you name a charitable remainder trust as a beneficiary of retirement plan assets, there will be no immediate income tax due on the plan proceeds paid to the trust because the trust is tax-exempt.</p>                    
+                        <a HREF="x48326.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Retirement Plan Assets</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="tangiblecrt-flyover">
+	                        <span CLASS="toolH3">Tangible Personal Property</span>
+
+<p>You may be able contribute tangible personal property to a charitable remainder trust and turn non-income-producing property into a stream of income for you or your family.</p>                    
+                        <a HREF="x48325.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Tangible Personal Property</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="cashclt-flyover">
+	                        <span CLASS="toolH3">Cash</span>
+
+<p>You may always use cash to fund a lead trust. Oftentimes, lead trusts are funded with cash in addition to stock or real estate.</p>                    
+                        <a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Cash</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="securitiesclt-flyover">
+	                        <span CLASS="toolH3">Appreciated Securities </span>
+
+<p>A charitable lead trust may be funded using a single appreciated security or a diversified stock and bond portfolio with high potential for growth over time.</p>                    
+                        <a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Appreciated Securities </a>
+
+                </span>
+                <span CLASS="popup-flyover" id="closelyheldstockclt-flyover">
+	                        <span CLASS="toolH3">Closely Held Stock</span>
+
+<p>One of the most common assets used to fund a lead trust is closely held stock in a family business that has the potential to grow over the years.</p>                    
+                        <a HREF="x48330.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Closely Held Stock</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="realestateclt-flyover">
+	                        <span CLASS="toolH3">Real Estate</span>
+
+<p>Income-producing real estate is a perfect asset to fund a lead trust.</p>                    
+                        <a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Real Estate</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="cashmemorials-flyover">
+	                        <span CLASS="toolH3">Cash</span>
+
+<p>A gift of cash in the form of a check is the easiest way to memorialize your loved one and support our work.</p>                    
+                        <a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Cash</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="appreciatedsecuritiesmemorials-flyover">
+	                        <span CLASS="toolH3">Appreciated Securities </span>
+
+<p>The most tax-efficient way to fund a memorial is with appreciated assets you have held for more than a year.</p>                    
+                        <a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Appreciated Securities </a>
+
+                </span>
+                <span CLASS="popup-flyover" id="tangiblepersonalpropertymemorials-flyover">
+	                        <span CLASS="toolH3">Tangible Personal Property</span>
+
+<p>If you have a friend or family member whose life has been touched by St. Stephen's, consider making a gift of tangible personal property to us in his or her name.</p>                    
+                        <a HREF="x48325.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Tangible Personal Property</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="realestatememorials-flyover">
+	                        <span CLASS="toolH3">Real Estate</span>
+
+<p>A gift of real estate may be a perfect way to honor your loved one. When you make a gift of real estate you have owned longer than a year, you obtain a federal income tax charitable deduction equal to the property's full fair market value.</p>                    
+                        <a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Real Estate</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="cashendowments-flyover">
+	                        <span CLASS="toolH3">Cash</span>
+
+<p>A gift of cash in the form of a check is the easiest way to create a lasting legacy through our endowment.</p>                    
+                        <a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Cash</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="appreciatedsecuritiesendowments-flyover">
+	                        <span CLASS="toolH3">Appreciated Securities </span>
+
+<p>The most tax-efficient way to fund an endowed gift is with appreciated assets you have held for more than a year.</p>                    
+                        <a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Appreciated Securities </a>
+
+                </span>
+                <span CLASS="popup-flyover" id="tangiblepersonalpropertyendowments-flyover">
+	                        <span CLASS="toolH3">Tangible Personal Property</span>
+
+<p>You may be able to use non-income-producing property such as stamp and coin collections or works of art in exchange for a federal income tax charitable deduction.</p>                    
+                        <a HREF="x48325.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Tangible Personal Property</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="realestateendowments-flyover">
+	                        <span CLASS="toolH3">Real Estate</span>
+
+<p>Your gift of appreciated real estate will qualify for a federal income tax charitable deduction for the fair market value of the property and eliminate long-term capital gains tax.</p>                    
+                        <a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Real Estate</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="cashdaf-flyover">
+	                        <span CLASS="toolH3">Cash</span>
+
+<p>When you establish a donor advised fund with cash, you will receive an immediate federal income tax charitable deduction for the year the gift was created.</p>                    
+                        <a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Cash</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="securitiesdaf-flyover">
+	                        <span CLASS="toolH3">Appreciated Securities</span>
+
+<p>Eliminate capital gains tax by donating appreciated assets you have held for more than a year on the transfer.</p>                    
+                        <a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Appreciated Securities</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="retirementplanassetsdaf-flyover">
+	                        <span CLASS="toolH3">Retirement Plan Assets</span>
+
+<p>You may make your donor advised fund a beneficiary of your retirement plan assets. You could then designate your loved ones as the donor advisors, which would allow them to make recommendations on what charitable organizations to support through the fund.</p>                    
+                        <a HREF="x48326.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Retirement Plan Assets</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="tangiblepersonalpropertydaf-flyover">
+	                        <span CLASS="toolH3">Tangible Personal Property</span>
+
+<p>You may be able to use non-income-producing property such as stamp and coin collections or works of art in exchange for a federal income tax charitable deduction.</p>                    
+                        <a HREF="x48325.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Tangible Personal Property</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="realestatedaf-flyover">
+	                        <span CLASS="toolH3">Real Estate</span>
+
+<p>Your gift of appreciated real estate will qualify for a federal income tax charitable deduction for the fair market value of the property and eliminate long-term capital gains tax.</p>                    
+                        <a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Real Estate</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="cashcga-flyover">
+	                        <span CLASS="toolH3">Cash</span>
+
+<p>Cash&mdash;usually in the form of a check&mdash;is one of the most common ways to fund a charitable gift annuity.</p>                    
+                        <a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Cash</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="appreciatedsecuritiescga-flyover">
+	                        <span CLASS="toolH3">Appreciated Securities</span>
+
+<p>By funding a charitable gift annuity with appreciated securities you've owned more than a year, you receive the additional benefit of eliminating part of the capital gains tax on the transfer.</p>                    
+                        <a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Appreciated Securities</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="closelyheldstockcga-flyover">
+	                        <span CLASS="toolH3">Closely Held Stock</span>
+
+<p>Use this asset, which is not easily converted to cash, to create a charitable gift annuity and receive tax benefits.</p>                    
+                        <a HREF="x48330.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Closely Held Stock</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="realestatecga-flyover">
+	                        <span CLASS="toolH3">Real Estate</span>
+
+<p>Unencumbered real estate such as a personal residence, vacation home, farm or commercial property works best to fund a deferred charitable gift annuity.</p>                    
+                        <a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Real Estate</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="tangiblepersonalpropertycga-flyover">
+	                        <span CLASS="toolH3">Tangible Personal Property </span>
+
+<p>Use non-income producing assets such as stamp and coin collections or works of art in exchange for fixed payments for life.</p>                    
+                        <a HREF="x48325.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Tangible Personal Property </a>
+
+                </span>
+                <span CLASS="popup-flyover" id="charitablebequestdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>A <strong>charitable bequest</strong> is one or two sentences in your will or living trust that leave to St. Stephen's a specific item, an amount of money, a gift contingent upon certain events or a percentage of your estate.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="beneficiarydefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>an individual or organization designated to receive benefits or funds under a will or other contract, such as an insurance policy, trust or retirement plan</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="bequestlanguagedefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>"I, [name], of [city, state, ZIP], give, devise and bequeath to St. Stephan's Episcopal School [written amount or percentage of the estate or description of property] for its unrestricted use and purpose."</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="revocabledefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>able to be changed or cancelled</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="revocabletrustdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>A <strong>revocable living trust</strong> is set up during your lifetime and can be revoked at any time before death. They allow assets held in the trust to pass directly to beneficiaries without probate court proceedings and can also reduce federal estate taxes.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="irrevocabledefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>cannot be changed or cancelled</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="gifttaxdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>tax on gifts generally paid by the person making the gift rather than the recipient</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="costbasisdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>the original value of an asset, such as stock, before its appreciation or depreciation</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="capitalgainsdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>the growth in value of an asset like stock or real estate since the original purchase</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="fairmarketvaluedefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>the price a willing buyer and willing seller can agree on</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="annuitantdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>The person receiving the gift annuity payments.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="residuaryestatedefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>the part of an estate left after debts, taxes and specific bequests have been paid</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="codicildefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>a written and properly witnessed legal change to a will</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="executordefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>the person named in a will to manage the estate, collect the property, pay any debt, and distribute property according to the will</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="donoradvisedfunddefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>A <strong>donor-advised fund</strong> is an account that you set up but which is managed by a nonprofit organization. You contribute to the account, which grows tax-free. You can recommend how much money (and how often) you want to distribute money from that fund to St. Stephen's or other charities. You cannot direct the gifts.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="endowedgiftdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>An <strong>endowed gift</strong> can create a new endowment or add to an existing endowment. The principal of the endowment is invested and a portion of the principal&rsquo;s earnings are used each year to support our mission.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="capitalgainstaxdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>Tax on the growth in value of an asset&mdash;such as real estate or stock&mdash;since its original purchase.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="appreciateddefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>Securities, real estate, or any other property having a fair market value greater than its original purchase price.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="realestatedefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p><strong>Real estate</strong> can be a personal residence, vacation home, timeshare property, farm, commercial property or undeveloped land.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="charitableremaindertrustdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>A charitable remainder trust provides you or other named individuals income each year for life or a period not exceeding 20 years from assets you give to the trust you create.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="charitableleadtrustdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>You give assets to a trust that pays our organization set payments for a number of years, which you choose. The longer the length of time, the better the gift tax savings to you. When the term is up, the remaining trust assets go to you, your family or other beneficiaries you select. This is an excellent way to transfer property to family members at a minimal cost.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="charitableremainderunitrustdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>You fund this type of trust with cash or appreciated assets&mdash;and receive an immediate federal income tax charitable deduction. You can also make additional gifts; each one also qualifies for a tax deduction. The trust pays you, each year, a variable amount based on a fixed percentage of the fair market value of the trust assets. When the trust terminates, the remaining principal goes to St. Stephen's as a lump sum.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="charitableremainderannuitytrustdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>You fund this trust with cash or appreciated assets&mdash;and receive an immediate federal income tax charitable deduction. Each year the trust pays you or another named individual the same dollar amount you choose at the start. When the trust terminates, the remaining principal goes to St. Stephen's as a lump sum.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="beneficiarydesignationdefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>A <strong>beneficiary designation</strong> clearly identifies how specific assets will be distributed after your death.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="charitablegiftannuitydefinition-flyover">
+	                        <span CLASS="toolH3"></span>
+
+<p>A <strong>charitable gift annuity</strong> involves a simple contract between you and St. Stephen's where you agree to make a gift to St. Stephen's and we, in return, agree to pay you (and someone else, if you choose) a fixed amount each year for the rest of your life.</p>                    
+
+                </span>
+                <span CLASS="popup-flyover" id="closelyheldstockbequests-flyover">
+	                        <span CLASS="toolH3">Closely Held Stock</span>
+
+<p>If you want to remain in control of your closely held stock during your lifetime, consider a gift in your will or living trust.</p>                    
+                        <a HREF="x48330.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Closely Held Stock</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="realestatebequests-flyover">
+	                        <span CLASS="toolH3">Real Estate</span>
+
+<p>To avoid the administrative hassles of selling real estate during your lifetime, give it to us through a bequest.</p>                    
+                        <a HREF="x48316.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Real Estate</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="cashbequests-flyover">
+	                        <span CLASS="toolH3">Cash</span>
+
+<p>A gift of cash is one of the most popular ways to support us after your lifetime. You may gift a specified sum of money or a percentage of your estate.</p>                    
+                        <a HREF="x48322.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Cash</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="appreciatedsecuritiesbequests-flyover">
+	                        <span CLASS="toolH3">Appreciated Securities</span>
+
+<p>A gift in your will or trust of securities often allows you to make larger gifts than you could during your lifetime.</p>                    
+                        <a HREF="x48327.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Appreciated Securities</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="tangiblepersonalpropertybequests-flyover">
+	                        <span CLASS="toolH3">Tangible Personal Property</span>
+
+<p>Leave your legacy with a gift of antiques, stamp/coin collections or works of art.</p>                    
+                        <a HREF="x48325.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Tangible Personal Property</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="bankaccountscertificatesofdepositorbrokerageaccountsbeneficiary-flyover">
+	                        <span CLASS="toolH3">Bank Accounts, Certificates of Deposit or Brokerage Accounts</span>
+
+<p>You can name St. Stephen's as beneficiary of your bank accounts, CDs and brokerage accounts by designating your account as Payable on Death (POD) or Transfer on Death (TOD) to us.</p>                    
+                        <a HREF="x48321.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Bank Accounts, Certificates of Deposit or Brokerage Accounts</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="commercialannuitiesbeneficiary-flyover">
+	                        <span CLASS="toolH3">Commercial Annuities</span>
+
+<p>A portion of the distributions from commercial annuities is subject to income tax for non-charitable beneficiaries. Naming St. Stephen's as a beneficiary of all or a portion of your commercial annuity will allow us to receive the assets you designate to us completely tax-free.</p>                    
+                        <a HREF="x48323.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Commercial Annuities</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="retirementplanassetsbeneficiary-flyover">
+	                        <span CLASS="toolH3">Retirement Plan Assets</span>
+
+<p>The full value of your IRA, 401(k), 403(b) or other qualified plans is subject to federal and state estate taxes at your death and the distributions from these accounts are subject to federal and applicable state income taxes. Instead, consider naming St. Stephen's as a beneficiary of all or a portion of your plan.</p>                    
+                        <a HREF="x48326.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Retirement Plan Assets</a>
+
+                </span>
+                <span CLASS="popup-flyover" id="lifeinsurancebeneficiary-flyover">
+	                        <span CLASS="toolH3">Life Insurance</span>
+
+<p>By naming St. Stephen's as a beneficiary of all or a portion of your life insurance policy, you support our work while retaining the ability to change your gift if your plans change.</p>                    
+                        <a HREF="x48324.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" CLASS="stlButton iconR">More about Life Insurance</a>
+
+                </span>
+            <div CLASS="hide">
+                <form ACTION="../../../Action/PEPCSendEmail.cshtml" id="PEPCForm" TARGET="_parent" name="PEPCForm" METHOD="POST" CLASS="white-popup-block clearfix" onsubmit="return validatePEPCForm()">
+	                <p STYLE="margin-bottom:30px;">Please provide the following information to view the materials for planning your estate.</p>
+	                <p>
+		                <label FOR="pepcFirst" CLASS="visuallyhidden">First Name</label>
+		                <input id="pepcFirst" name="first" placeholder="First Name" TYPE="text">
+	                </p>
+                    <p>
+		                <label FOR="pepcLast" CLASS="visuallyhidden">Last Name</label>
+		                <input id="pepcLast" name="last" placeholder="Last Name" TYPE="text">
+	                </p>
+                    <p>
+		                <label FOR="pepcEmail" CLASS="visuallyhidden">Email Address</label>
+		                <input id="pepcEmail" name="email" placeholder="Email Address" TYPE="email">
+	                </p>
+	                <p CLASS="hidden">
+                        <label FOR="pepcHoneypot" CLASS="visuallyhidden">Honeypot</label>
+		                <input TYPE="text" name="honeypot" id="pepcHoneypot" autocomplete="off">
+	                </p>		
+	                <p>
+		                <button CLASS="stlButton" TYPE="submit"><span>Download Our FREE Personal Estate Planning Kit</span></button>
+	                </p>
+                    <label FOR="pepcNextpage" CLASS="hide">Next Page</label>
+	                <input id="pepcNextpage" name="nextpage" VALUE="x48329.xml?Preview=true&amp;Site=&amp;IncludeAllPages=false&amp;tfrm=1&amp;PubTgt=PublishingTargets/1&amp;Site=&amp;UserAgent=" TYPE="hidden">
+                    <label FOR="pepcToEmail" CLASS="hide">To Email</label>
+                    <input id="pepcToEmail" name="toEmail" VALUE="lbailey@sstx.org" TYPE="hidden">
+                    <label FOR="pepcPageName" CLASS="hide">Page Name</label>
+                    <input id="pepcPageName" name="pageName" VALUE="St. Stephen&#39;s Episcopal School" TYPE="hidden" />
+                    <label FOR="orgName" CLASS="hide">Org Name</label>
+                    <input id="orgName" name="orgName" VALUE="St. Stephan&#39;s Episcopal School" TYPE="hidden" />
+                </form>            
+            </div>
+    <!-- SiteCatalyst code version: H.25.2.
+    Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+    More info available at http://www.omniture.com -->
+    <script language="JavaScript" TYPE="text/javascript"><!--
+    s.pageName = document.title
+    s.server = window.location.host
+    s.channel = "planned giving"
+    s.campaign = s.getQueryParam('src')
+    s.eVar16 = s.getQueryParam('formName')
+    s.prop17 = orgId
+    s.eVar27 = s.getQueryParam('et_firstName')
+    s.eVar28 = s.getQueryParam('et_lastName')
+    s.eVar29 = s.getQueryParam('et_email')
+    s.eVar30 = s.getQueryParam('et_donorID')
+    s.eVar31 = s.getQueryParam('et_subscriberKey')
+    s.eVar32 = s.getQueryParam('et_misc1')
+    s.eVar33 = s.getQueryParam('et_misc2')
+    s.eVar34 = s.getQueryParam('et_misc3')
+    s.eVar35 = s.getQueryParam('et_misc4')
+    s.eVar36 = s.getQueryParam('et_misc5')
+    s.eVar38 = s.getQueryParam('et_sendId')
+    if (s.getQueryParam('featured') == "true") { s.events = s.apl(s.events, "event6", ",", 2); s.eVar18 = "Home Page Special Feature"; }
+    var pageurl = location.href.replace(/^(?:\/\/|[^\/]+)*\//, "");
+    var pagename = "";
+    if (pageurl.indexOf("?") < 0) {
+        if (pageurl.lastIndexOf("/") < 0) {
+            pagename = pageurl;
+        } else {
+            pagename = pageurl.substr(pageurl.lastIndexOf("/") + 1);
+        }
+    } else {
+        if (pageurl.lastIndexOf("/") < 0) {
+            pagename = pageurl.substring(0, pageurl.indexOf("?"));
+        } else {
+            pagename = pageurl.substring(pageurl.lastIndexOf("/") + 1, pageurl.indexOf("?"));
+        }
+    }
+    s.prop4 = pagename;
+    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+    var s_code = s.t(); if (s_code) document.write(s_code)//--></script>
+    <script language="JavaScript" TYPE="text/javascript"><!--
+    if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+    //--></script>
+    <noscript>
+        <img SRC="http://thesteltercompany.d1.sc.omtrdc.net/b/ss/tsc-msu-dev/1/H.25.2--NS/0"
+            height="1" WIDTH="1" BORDER="0" ALT="" />
+    </noscript>
+    <!--/DO NOT REMOVE/-->
+    <!-- End SiteCatalyst code version: H.25.2. -->
+</body>
+</html>
